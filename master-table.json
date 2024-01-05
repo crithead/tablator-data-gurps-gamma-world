@@ -1,82 +1,67 @@
 {
   "name": "Wasteland Treasures",
-  "type": "items",
+  "type": "tables",
   "total-weight": 100,
   "rows": [
     {
-      "name": "Projectile Weapons",
-      "weight": 3,
-      "subtable": "projectile-weapons"
+      "table": "projectile-weapons",
+      "weight": 3
     },
     {
-      "name": "Appliances and Furniture",
-      "weight": 6,
-      "subtable": "appliances-furniture"
+      "table": "appliances-furniture",
+      "weight": 6
     },
     {
-      "name": "Clothing",
-      "weight": 3,
-      "subtable": "clothing"
+      "table": "clothing",
+      "weight": 3
     },
     {
-      "name": "Water",
-      "weight": 3,
-      "subtable": "water-type"
+      "table": "water-type",
+      "weight": 3
     },
     {
-      "name": "Medication",
-      "weight": 6,
-      "subtable": "medication"
+      "table": "medication",
+      "weight": 6
     },
     {
-      "name": "Office Items",
-      "weight": 6,
-      "subtable": "office-items"
+      "table": "office-items",
+      "weight": 5
     },
     {
-      "name": "Books",
-      "weight": 3,
-      "subtable": "books"
+      "table": "books",
+      "weight": 3
     },
     {
-      "name": "Melee/Thrown Weapons",
-      "weight": 3,
-      "subtable": "melee-thrown-weapons"
+      "table": "melee-thrown-weapons",
+      "weight": 3
     },
     {
-      "name": "Over-the-Counter Drugs and Medical Supplies",
-      "weight": 3,
-      "subtable": "medical-supplies"
+      "table": "medical-supplies",
+      "weight": 3
     },
     {
-      "name": "Ammo",
-      "weight": 3,
-      "subtable": "ammunition"
+      "table": "ammunition",
+      "weight": 3
     },
     {
-      "name": "Food",
-      "weight": 3,
-      "subtable": "food"
+      "table": "food",
+      "weight": 3
     },
     {
-      "name": "Armor and Tactical Gear",
-      "weight": 3,
-      "subtable": "tactical-gear"
+      "table": "tactical-gear",
+      "weight": 3
     },
     {
-      "name": "Alcohol",
-      "weight": 3,
-      "subtable": "alcohol"
+      "table": "alcohol",
+      "weight": 3
     },
     {
-      "name": "Drugs",
-      "weight": 2,
-      "subtable": "drugs"
+      "table": "drugs",
+      "weight": 3
     },
     {
-      "name": "Random Items",
-      "weight": 50,
-      "subtable": "miscellaneous-items"
+      "table": "miscellaneous-items",
+      "weight": 50
     }
   ]
 }
