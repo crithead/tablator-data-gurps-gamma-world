@@ -1,0 +1,197 @@
+{
+  "name": "Projectile Weapons",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "name": "12 GA Double barrel shotgun",
+      "weight": 2
+    },
+    {
+      "name": "12 GA Pump shotgun",
+      "weight": 2
+    },
+    {
+      "name": "12 GA Sawed-off shotgun"
+    },
+    {
+      "name": "12 GA Shotgun",
+      "weight": 2
+    },
+    {
+      "name": "20 GA Double barrel shotgun",
+      "weight": 2
+    },
+    {
+      "name": "20 GA  Pump shotgun",
+      "weight": 2
+    },
+    {
+      "name": "20 GA Sawed-off shotgun"
+    },
+    {
+      "name": "20 GA Shotgun",
+      "weight": 4
+    },
+    {
+      "name": ".22 Bolt action rifle",
+      "weight": 2
+    },
+    {
+      "name": ".22 Revolver",
+      "weight": 2
+    },
+    {
+      "name": ".22 Semi-auto pistol",
+      "weight": 2
+    },
+    {
+      "name": ".22 Semi-auto rifle",
+      "weight": 4
+    },
+    {
+      "name": ".357 Revolver",
+      "weight": 2
+    },
+    {
+      "name": ".357 Semi-auto pistol"
+    },
+    {
+      "name": ".38 Revolver",
+      "weight": 5
+    },
+    {
+      "name": ".38 Semi-auto pistol"
+    },
+    {
+      "name": ".380 Semi-auto pistol",
+      "weight": 5
+    },
+    {
+      "name": ".44 Revolver"
+    },
+    {
+      "name": ".44 Semi-auto pistol"
+    },
+    {
+      "name": ".45 Bolt action rifle"
+    },
+    {
+      "name": ".45 Revolver"
+    },
+    {
+      "name": ".45 Semi-auto pistol"
+    },
+    {
+      "name": ".45 Semi-auto rifle"
+    },
+    {
+      "name": ".50 Bolt action rifle"
+    },
+    {
+      "name": ".50 Revolver"
+    },
+    {
+      "name": ".50 Semi-auto pistol"
+    },
+    {
+      "name": ".50 Semi-auto rifle"
+    },
+    {
+      "name": "5.56mm Bolt action rifle"
+    },
+    {
+      "name": "5.56mm Revolver"
+    },
+    {
+      "name": "5.56mm Semi-auto pistol",
+      "weight": 2
+    },
+    {
+      "name": "5.56mm Semi-auto rifle",
+      "weight": 2
+    },
+    {
+      "name": "7.62mm Bolt action rifle"
+    },
+    {
+      "name": "7.62mm Revolver"
+    },
+    {
+      "name": "7.62mm Semi-auto pistol"
+    },
+    {
+      "name": "7.62mm Semi-auto rifle",
+      "weight": 2
+    },
+    {
+      "name": "9mm revolver"
+    },
+    {
+      "name": "9mm Semi-auto pistol",
+      "weight": 4
+    },
+    {
+      "name": "9mm Semi-auto rifle"
+    },
+    {
+      "name": "Ballistic knife"
+    },
+    {
+      "name": "Blowgun",
+      "weight": 2
+    },
+    {
+      "name": "Bow",
+      "weight": 3
+    },
+    {
+      "name": "Compound bow",
+      "weight": 4
+    },
+    {
+      "name": "Crossbow",
+      "weight": 3
+    },
+    {
+      "name": "Grenade launcher"
+    },
+    {
+      "name": "Longbow",
+      "weight": 3
+    },
+    {
+      "name": "MAC-10 Full auto (.45)"
+    },
+    {
+      "name": "MAC-10 Full auto (9mm)"
+    },
+    {
+      "name": "Mortar"
+    },
+    {
+      "name": "Pepper spray",
+      "weight": 4,
+      "quantity": "1d6+2",
+      "units": "uses"
+    },
+    {
+      "name": "Pistol crossbow",
+      "weight": 3
+    },
+    {
+      "name": "Rocket launcher"
+    },
+    {
+      "name": "Sling"
+    },
+    {
+      "name": "Slingshot",
+      "weight": 2
+    },
+    {
+      "name": "Wrist crossbow",
+      "weight": 2
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Ultra-Tech Rechargable Power Cells",
+  "type": "items",
+  "total-weight": 7,
+  "rows": [
+    {
+      "name": "AA",
+      "quantity": "0.0005",
+      "units": "lbs"
+    },
+    {
+      "name": "A",
+      "quantity": "0.005",
+      "units": "lbs"
+    },
+    {
+      "name": "B",
+      "quantity": "0.05",
+      "units": "lbs"
+    },
+    {
+      "name": "C",
+      "quantity": "0.5",
+      "units": "lbs"
+    },
+    {
+      "name": "D",
+      "quantity": "5",
+      "units": "lbs"
+    },
+    {
+      "name": "E",
+      "quantity": "20",
+      "units": "lbs"
+    },
+    {
+      "name": "F",
+      "quantity": "200",
+      "units": "lbs"
+    }
+  ]
+}

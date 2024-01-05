@@ -1,0 +1,3014 @@
+{
+  "name": "Miscellaneous Items",
+  "type": "items",
+  "total-weight": 1000,
+  "rows": [
+    {
+      "name": "12-String Guitar"
+    },
+    {
+      "name": "409 cleaner (\u00bd bottle)"
+    },
+    {
+      "name": "50 Gallon plastic jug",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Accordion"
+    },
+    {
+      "name": "Acetone (\u00bd gallon)"
+    },
+    {
+      "name": "Acoustic Guitar"
+    },
+    {
+      "name": "Acrylic latex plus silicone caulk (\u00bd tube)"
+    },
+    {
+      "name": "Acrylic paint set"
+    },
+    {
+      "name": "Acrylic sheets, 1' x 3'",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Acrylic Sheets, 2' x 4'",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Adhesive remover spray gel (\u00bd bottle)"
+    },
+    {
+      "name": "Adjustable wrench",
+      "weight": 3
+    },
+    {
+      "name": "Air pump"
+    },
+    {
+      "name": "Ajax cleaner (\u00bd bottle)"
+    },
+    {
+      "name": "Alarm clock"
+    },
+    {
+      "name": "Allen key"
+    },
+    {
+      "name": "Alphabet Stencil"
+    },
+    {
+      "name": "Alternator"
+    },
+    {
+      "name": "Aluminum cans",
+      "weight": 5,
+      "quantity": "4d10",
+      "units": "cans"
+    },
+    {
+      "name": "Aluminum foil (\u00bd roll)"
+    },
+    {
+      "name": "Amazon Echo"
+    },
+    {
+      "name": "American flag, tattered"
+    },
+    {
+      "name": "Antifreeze (\u00bd gallon)"
+    },
+    {
+      "name": "Anvil"
+    },
+    {
+      "name": "Appliance electrical plug, 3-prong"
+    },
+    {
+      "name": "Appliance electrical plug, 4-prong"
+    },
+    {
+      "name": "Army costume"
+    },
+    {
+      "name": "Audio cable",
+      "quantity": "3d6",
+      "units": "ft"
+    },
+    {
+      "name": "Autoharp"
+    },
+    {
+      "name": "Baby car seat"
+    },
+    {
+      "name": "Baby doll",
+      "weight": 2
+    },
+    {
+      "name": "Baby food jars with lids",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Baby rattle"
+    },
+    {
+      "name": "Baby stroller"
+    },
+    {
+      "name": "Baby wipes",
+      "quantity": "1d100"
+    },
+    {
+      "name": "Back to the Future lunch box"
+    },
+    {
+      "name": "Hacksaw"
+    },
+    {
+      "name": "Badminton birdie"
+    },
+    {
+      "name": "Baking sheet",
+      "weight": 2,
+      "quantity": "1d3"
+    },
+    {
+      "name": "Ball-peen Hammer"
+    },
+    {
+      "name": "Balloons",
+      "weight": 3,
+      "quantity": "2d10"
+    },
+    {
+      "name": "Bamboo bathroom mat"
+    },
+    {
+      "name": "Bamboo pole, 2\" x 8'",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Bamboo skewer",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Band-Aids (1 box)",
+      "weight": 2
+    },
+    {
+      "name": "Banjo"
+    },
+    {
+      "name": "Barbed wire",
+      "weight": 3,
+      "quantity": "1d3x10",
+      "units": "ft"
+    },
+    {
+      "name": "Baseball",
+      "weight": 5
+    },
+    {
+      "name": "Baseball glove"
+    },
+    {
+      "name": "Basketball"
+    },
+    {
+      "name": "Basketball (flat)"
+    },
+    {
+      "name": "Bass"
+    },
+    {
+      "name": "Bass guitar"
+    },
+    {
+      "name": "Bassoon"
+    },
+    {
+      "name": "Bath mat"
+    },
+    {
+      "name": "Bath towel",
+      "weight": 5
+    },
+    {
+      "name": "Bath towels",
+      "quantity": "1d4+1"
+    },
+    {
+      "name": "Bathrobe",
+      "weight": 2
+    },
+    {
+      "name": "Bathroom scale"
+    },
+    {
+      "name": "Bathroom tile",
+      "quantity": "5d10"
+    },
+    {
+      "name": "Beach towel",
+      "weight": 4
+    },
+    {
+      "name": "Bead Necklace"
+    },
+    {
+      "name": "Beakers",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Bed sheet",
+      "weight": 3
+    },
+    {
+      "name": "Bed sheets",
+      "quantity": "2d4"
+    },
+    {
+      "name": "Beer stein",
+      "weight": 2
+    },
+    {
+      "name": "Betamax tape",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Bicycle chain"
+    },
+    {
+      "name": "Bicycle chain master link"
+    },
+    {
+      "name": "Bicycle forks"
+    },
+    {
+      "name": "Bicycle frame"
+    },
+    {
+      "name": "Bicycle grips"
+    },
+    {
+      "name": "Bicycle hand brake"
+    },
+    {
+      "name": "Bicycle handlebars"
+    },
+    {
+      "name": "Bicycle pedals"
+    },
+    {
+      "name": "Bicycle reflector",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Bicycle seat"
+    },
+    {
+      "name": "Bicycle sprocket"
+    },
+    {
+      "name": "Bicycle tire"
+    },
+    {
+      "name": "Bicycle tire inner tube"
+    },
+    {
+      "name": "Bicycle tire pump"
+    },
+    {
+      "name": "Bicycle wheel"
+    },
+    {
+      "name": "Billiard ball"
+    },
+    {
+      "name": "Binoculars"
+    },
+    {
+      "name": "Binoculars"
+    },
+    {
+      "name": "Blanket"
+    },
+    {
+      "name": "Blanket"
+    },
+    {
+      "name": "Blanket, tattered"
+    },
+    {
+      "name": "Bleach",
+      "weight": 2,
+      "units": "gallon"
+    },
+    {
+      "name": "Bleach (\u00bd gallon)"
+    },
+    {
+      "name": "Bleach jug (empty)"
+    },
+    {
+      "name": "Blender"
+    },
+    {
+      "name": "Blood pressure sleeve"
+    },
+    {
+      "name": "Blow-dryer"
+    },
+    {
+      "name": "Blowtorch",
+      "quantity": "2d10",
+      "units": "uses"
+    },
+    {
+      "name": "Board game",
+      "subtable": "board-game-type"
+    },
+    {
+      "name": "Bobby pins",
+      "weight": 3,
+      "quantity": "4d10"
+    },
+    {
+      "name": "Body lotion (\u00bd bottle)"
+    },
+    {
+      "name": "Bolt cutters"
+    },
+    {
+      "name": "Bolts",
+      "weight": 2,
+      "quantity": "2d10"
+    },
+    {
+      "name": "Bongo drums"
+    },
+    {
+      "name": "Book",
+      "weight": 5,
+      "subtable": "books"
+    },
+    {
+      "name": "Bottle caps",
+      "weight": 2,
+      "quantity": "2d10"
+    },
+    {
+      "name": "Bottle opener",
+      "weight": 3
+    },
+    {
+      "name": "Bottle rockets",
+      "quantity": "1d20"
+    },
+    {
+      "name": "Bowl",
+      "quantity": "1d3"
+    },
+    {
+      "name": "Bowling pin"
+    },
+    {
+      "name": "Bowling trophy, small"
+    },
+    {
+      "name": "Box of cereal, stale"
+    },
+    {
+      "name": "Box of facial tissues, unopened",
+      "quantity": "100"
+    },
+    {
+      "name": "Box of matches, 50% chance of lighting",
+      "quantity": "2d100"
+    },
+    {
+      "name": "Box of plastic forks",
+      "quantity": "5d10"
+    },
+    {
+      "name": "Box of plastic trash bags",
+      "quantity": "2d10"
+    },
+    {
+      "name": "Brace"
+    },
+    {
+      "name": "Bracelet",
+      "weight": 3
+    },
+    {
+      "name": "Bracelet, woven string"
+    },
+    {
+      "name": "Bradawl"
+    },
+    {
+      "name": "Bubble level"
+    },
+    {
+      "name": "Bundle of newspapers"
+    },
+    {
+      "name": "Bungee cord, 1'"
+    },
+    {
+      "name": "Bungee cord, 2'"
+    },
+    {
+      "name": "Bungee cord, 3'"
+    },
+    {
+      "name": "Bunsen Burner"
+    },
+    {
+      "name": "Burlap sack",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Butane torch",
+      "quantity": "3d10",
+      "units": "uses"
+    },
+    {
+      "name": "Buttons, metal",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Buttons, plastic",
+      "quantity": "2d6"
+    },
+    {
+      "name": "C.B. radio (works 50% of the time)"
+    },
+    {
+      "name": "Can opener",
+      "weight": 2
+    },
+    {
+      "name": "Candle in a can"
+    },
+    {
+      "name": "Candles",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Canteen, empty"
+    },
+    {
+      "name": "Canteen, empty, holds \u00bd gallon"
+    },
+    {
+      "name": "Canvass (6' x 6')"
+    },
+    {
+      "name": "Car battery"
+    },
+    {
+      "name": "Car fan belt"
+    },
+    {
+      "name": "Car jack"
+    },
+    {
+      "name": "Car owner's manual"
+    },
+    {
+      "name": "Car registration"
+    },
+    {
+      "name": "Car tire"
+    },
+    {
+      "name": "Carabiners",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Carbide scraper (2.5 inch)"
+    },
+    {
+      "name": "Cardboard (7 random pieces)"
+    },
+    {
+      "name": "Carpenter pencil"
+    },
+    {
+      "name": "Carpet (6' x 15')"
+    },
+    {
+      "name": "Carpet remnant (2' x 3')"
+    },
+    {
+      "name": "Cashbox"
+    },
+    {
+      "name": "Cassette tapes",
+      "weight": 2,
+      "quantity": "2d6"
+    },
+    {
+      "name": "Cassette tapes, 80's heavy metal",
+      "quantity": "2d4"
+    },
+    {
+      "name": "Cast net, 6'"
+    },
+    {
+      "name": "Castanets"
+    },
+    {
+      "name": "Catcher's mitt"
+    },
+    {
+      "name": "Caulk finishing tool"
+    },
+    {
+      "name": "Caulk smoothing tool"
+    },
+    {
+      "name": "Caulking gun",
+      "weight": 2
+    },
+    {
+      "name": "CD with holder",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Ceiling grid",
+      "quantity": "2d10",
+      "units": "pieces"
+    },
+    {
+      "name": "Ceiling tile",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Cello"
+    },
+    {
+      "name": "Central Processing Unit"
+    },
+    {
+      "name": "Ceramic cookie jar",
+      "weight": 2
+    },
+    {
+      "name": "Chain",
+      "quantity": "1d10",
+      "units": "ft"
+    },
+    {
+      "name": "Chain link fencing",
+      "quantity": "4d8",
+      "units": "ft"
+    },
+    {
+      "name": "Chainsaw"
+    },
+    {
+      "name": "Chalk line"
+    },
+    {
+      "name": "Champagne flute"
+    },
+    {
+      "name": "Cheerleader costume"
+    },
+    {
+      "name": "Cheese melter"
+    },
+    {
+      "name": "Chemical hand warmer",
+      "quantity": "1d6",
+      "units": "packets"
+    },
+    {
+      "name": "Chisel"
+    },
+    {
+      "name": "Chocolatera"
+    },
+    {
+      "name": "Christmas tree stand"
+    },
+    {
+      "name": "Cigarette lighter",
+      "quantity": "5d10",
+      "units": "uses"
+    },
+    {
+      "name": "Circular saw"
+    },
+    {
+      "name": "Clarinet"
+    },
+    {
+      "name": "Claw Hammer",
+      "weight": 3
+    },
+    {
+      "name": "Clay planter"
+    },
+    {
+      "name": "Cleaner/degreaser (1 gallon)"
+    },
+    {
+      "name": "Clear bath silicone sealant",
+      "quantity": "1d4",
+      "units": "tubes"
+    },
+    {
+      "name": "Clear waterproof sealant",
+      "quantity": "1d4",
+      "units": "tubes"
+    },
+    {
+      "name": "Clorox wipes (full box)"
+    },
+    {
+      "name": "Cloth bandages",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Clothes iron"
+    },
+    {
+      "name": "Clothesline rope",
+      "quantity": "5d10",
+      "units": "ft"
+    },
+    {
+      "name": "Clothespin",
+      "quantity": "2d20"
+    },
+    {
+      "name": "Coffee cup"
+    },
+    {
+      "name": "Coffee mug"
+    },
+    {
+      "name": "Coffee percolator"
+    },
+    {
+      "name": "Coffee pot"
+    },
+    {
+      "name": "Cold-pressed juicer"
+    },
+    {
+      "name": "Colored beads",
+      "quantity": "2d100"
+    },
+    {
+      "name": "Colored pencil set"
+    },
+    {
+      "name": "Comb"
+    },
+    {
+      "name": "Combination square"
+    },
+    {
+      "name": "Compass"
+    },
+    {
+      "name": "Composite caulk gun"
+    },
+    {
+      "name": "Computer router"
+    },
+    {
+      "name": "Computer video card"
+    },
+    {
+      "name": "Concentrated cleaner (\u00bd gallon)"
+    },
+    {
+      "name": "Concrete and mortar dissolver (1 gallon)"
+    },
+    {
+      "name": "Concrete Neutralizer (\u00bd gallon)"
+    },
+    {
+      "name": "Concrete, 50 lbs",
+      "quantity": "1d4",
+      "units": "bags"
+    },
+    {
+      "name": "Confederate flag, tattered"
+    },
+    {
+      "name": "Construction paper",
+      "quantity": "5d10",
+      "units": "sheets"
+    },
+    {
+      "name": "Cooking grill"
+    },
+    {
+      "name": "Cooking pot, 6\""
+    },
+    {
+      "name": "Cooking pot, 8\""
+    },
+    {
+      "name": "Coping saw"
+    },
+    {
+      "name": "Copper tea kettle"
+    },
+    {
+      "name": "Copper tubing",
+      "quantity": "3d6",
+      "units": "ft"
+    },
+    {
+      "name": "Copper wire",
+      "quantity": "1d6",
+      "units": "ft"
+    },
+    {
+      "name": "Cordless caulk gun kit"
+    },
+    {
+      "name": "Cordless drill"
+    },
+    {
+      "name": "Corduroy (1 bolt)"
+    },
+    {
+      "name": "Corduroy (\u00bd bolt)"
+    },
+    {
+      "name": "Corduroy (2 bolts)"
+    },
+    {
+      "name": "Corkscrew"
+    },
+    {
+      "name": "Corkscrew"
+    },
+    {
+      "name": "Corn cob pipe"
+    },
+    {
+      "name": "Corn on the cob holders",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Cotton balls",
+      "quantity": "10d10"
+    },
+    {
+      "name": "Cotton fabric (1 bolt)"
+    },
+    {
+      "name": "Cotton fabric (\u00bd bolt)"
+    },
+    {
+      "name": "Cotton fabric (2 bolts)"
+    },
+    {
+      "name": "Cow bell"
+    },
+    {
+      "name": "Cowbell"
+    },
+    {
+      "name": "Cowboy costume"
+    },
+    {
+      "name": "Crayon set"
+    },
+    {
+      "name": "Crayons",
+      "quantity": "5d10"
+    },
+    {
+      "name": "Credit card"
+    },
+    {
+      "name": "Crepe maker"
+    },
+    {
+      "name": "Crockpot"
+    },
+    {
+      "name": "Crowbar"
+    },
+    {
+      "name": "Crucifix"
+    },
+    {
+      "name": "Cultivator"
+    },
+    {
+      "name": "Cupcake pan"
+    },
+    {
+      "name": "Curtain rod"
+    },
+    {
+      "name": "Cutting board"
+    },
+    {
+      "name": "Cymbals"
+    },
+    {
+      "name": "Dartboard"
+    },
+    {
+      "name": "Darts (3)"
+    },
+    {
+      "name": "Deck cleaner (half-full spray bottle)"
+    },
+    {
+      "name": "Deck of playing cards"
+    },
+    {
+      "name": "Deer antlers (8 points)"
+    },
+    {
+      "name": "Denim (1 bolt)"
+    },
+    {
+      "name": "Denim (\u00bd bolt)"
+    },
+    {
+      "name": "Denim (2 bolts)"
+    },
+    {
+      "name": "Diagonal pliers"
+    },
+    {
+      "name": "Dime",
+      "quantity": "1d10"
+    },
+    {
+      "name": "Disinfectant face wipe",
+      "quantity": "2d10"
+    },
+    {
+      "name": "Doctor costume"
+    },
+    {
+      "name": "Dog collar"
+    },
+    {
+      "name": "Dog costume"
+    },
+    {
+      "name": "Dog leash, 8'"
+    },
+    {
+      "name": "Doormat"
+    },
+    {
+      "name": "Dried fruit",
+      "quantity": "2d6",
+      "units": "packets"
+    },
+    {
+      "name": "Drinking glass, chipped"
+    },
+    {
+      "name": "Drivers license"
+    },
+    {
+      "name": "Drop ceiling tiles",
+      "quantity": "2d10"
+    },
+    {
+      "name": "Drum sticks"
+    },
+    {
+      "name": "Drywall corner bead",
+      "quantity": "1d6",
+      "units": "pieces"
+    },
+    {
+      "name": "Drywall joint compound",
+      "quantity": "1d6",
+      "units": "lbs"
+    },
+    {
+      "name": "Drywall, 2' x 4'",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Drywall, 3' x 4'",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Drywall, 4' x 4'",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Duct tape (1 roll)",
+      "weight": 5
+    },
+    {
+      "name": "Duct tape (\u00bd roll)"
+    },
+    {
+      "name": "Dulcimer"
+    },
+    {
+      "name": "Dungeons & Dragons Gamemaster Handbook"
+    },
+    {
+      "name": "Dungeons & Dragons Monster Manual"
+    },
+    {
+      "name": "Dungeons & Dragons Player's Handbook"
+    },
+    {
+      "name": "Dustless paint scraper"
+    },
+    {
+      "name": "DVDs",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Earbuds"
+    },
+    {
+      "name": "Easy liquid sander (1 quart)"
+    },
+    {
+      "name": "Elastic bandage",
+      "weight": 2
+    },
+    {
+      "name": "Electric cord,",
+      "quantity": "2d6",
+      "units": "ft"
+    },
+    {
+      "name": "Electric drill"
+    },
+    {
+      "name": "Electric nail gun"
+    },
+    {
+      "name": "Electrical Fuse, large",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Electrical Fuse, small",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Electrical tape (1 roll)"
+    },
+    {
+      "name": "Electrical tape (\u00bd roll)"
+    },
+    {
+      "name": "Energy bars",
+      "weight": 2,
+      "quantity": "2d8",
+      "units": "bars"
+    },
+    {
+      "name": "Epoxy remover (1 quart)"
+    },
+    {
+      "name": "Espresso machine"
+    },
+    {
+      "name": "Ethernet cable, 6'",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Extension cord, 20'"
+    },
+    {
+      "name": "External hard drive"
+    },
+    {
+      "name": "Eye exam chart"
+    },
+    {
+      "name": "Face paint",
+      "quantity": "2d6",
+      "units": "uses"
+    },
+    {
+      "name": "Fan"
+    },
+    {
+      "name": "Fiberglass insulation (1 roll)"
+    },
+    {
+      "name": "Fife"
+    },
+    {
+      "name": "Finger-paint set"
+    },
+    {
+      "name": "Fingernail clippers",
+      "weight": 2
+    },
+    {
+      "name": "Fire block foam (\u00bd can)"
+    },
+    {
+      "name": "Fire extinguisher",
+      "weight": 2
+    },
+    {
+      "name": "Fire starting kit",
+      "quantity": "2d6",
+      "units": "uses"
+    },
+    {
+      "name": "Fire-barrier sealant",
+      "quantity": "1d6",
+      "units": "tubes"
+    },
+    {
+      "name": "Fire-rated Silicone Sealant",
+      "quantity": "1d6",
+      "units": "tubes"
+    },
+    {
+      "name": "Firecrackers (1\u00bd\", \u00bd brick)"
+    },
+    {
+      "name": "Fireplace poker"
+    },
+    {
+      "name": "Fireplace tongs"
+    },
+    {
+      "name": "First aid kit",
+      "weight": 2
+    },
+    {
+      "name": "Fish hook",
+      "weight": 2,
+      "quantity": "2d6"
+    },
+    {
+      "name": "Fishbowl"
+    },
+    {
+      "name": "Fishing bobber"
+    },
+    {
+      "name": "Fishing line",
+      "quantity": "5d20",
+      "units": "ft"
+    },
+    {
+      "name": "Fishing lure"
+    },
+    {
+      "name": "Fishing pole"
+    },
+    {
+      "name": "Five dollar bill"
+    },
+    {
+      "name": "Flame supervision device"
+    },
+    {
+      "name": "Flannel (1 bolt)"
+    },
+    {
+      "name": "Flannel (\u00bd bolt)"
+    },
+    {
+      "name": "Flashlight",
+      "weight": 2
+    },
+    {
+      "name": "Flashlight, crank"
+    },
+    {
+      "name": "Flat tire spray",
+      "quantity": "1d4+1",
+      "units": "uses"
+    },
+    {
+      "name": "Flats (shoes)"
+    },
+    {
+      "name": "Flatware set"
+    },
+    {
+      "name": "Flexible putty knife, 2\""
+    },
+    {
+      "name": "Flexible wall scraper, 3\""
+    },
+    {
+      "name": "Flexible wall scraper, 4\""
+    },
+    {
+      "name": "Flip-flop",
+      "weight": 2,
+      "quantity": "1d2"
+    },
+    {
+      "name": "Floetrol latex paint additive (1 quart)"
+    },
+    {
+      "name": "Floor scraper with 18-inch handle"
+    },
+    {
+      "name": "Flute"
+    },
+    {
+      "name": "Foam insulation, 1\" x 4' x 8'",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Folding hand fan"
+    },
+    {
+      "name": "Football"
+    },
+    {
+      "name": "Footlocker, 3' x 2' x 12\""
+    },
+    {
+      "name": "Forge hammer"
+    },
+    {
+      "name": "Fork"
+    },
+    {
+      "name": "Four-edge wood scraper, 2\u00bd\""
+    },
+    {
+      "name": "Foxhole shovel"
+    },
+    {
+      "name": "French horn"
+    },
+    {
+      "name": "Frisbee"
+    },
+    {
+      "name": "Frying pan, 12\""
+    },
+    {
+      "name": "Frying pan, 6\""
+    },
+    {
+      "name": "Fun noodle"
+    },
+    {
+      "name": "G.I. Joe action figure"
+    },
+    {
+      "name": "Gallon plastic jug",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Garage door remote"
+    },
+    {
+      "name": "Garden hoe"
+    },
+    {
+      "name": "Garden hose",
+      "quantity": "3d10",
+      "units": "ft"
+    },
+    {
+      "name": "Gas can, 5 Gallon"
+    },
+    {
+      "name": "Gas mask"
+    },
+    {
+      "name": "Gasoline",
+      "weight": 10,
+      "quantity": "1d20",
+      "units": "liters"
+    },
+    {
+      "name": "Gear, 4\"",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Gear, 6\"",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Gel fuel can",
+      "quantity": "2d10",
+      "units": "uses"
+    },
+    {
+      "name": "Ghost costume"
+    },
+    {
+      "name": "Glass and tile scraper"
+    },
+    {
+      "name": "Glasses"
+    },
+    {
+      "name": "Glitter",
+      "quantity": "1d4",
+      "units": "tubes"
+    },
+    {
+      "name": "Gloves"
+    },
+    {
+      "name": "Glue stick",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Goggles, snorkel, & flippers"
+    },
+    {
+      "name": "Gold ring"
+    },
+    {
+      "name": "Golf ball",
+      "quantity": "1d12"
+    },
+    {
+      "name": "Googly eyes, small",
+      "quantity": "2d20"
+    },
+    {
+      "name": "Goose Feather",
+      "quantity": "1d6"
+    },
+    {
+      "name": "GPS device"
+    },
+    {
+      "name": "Graffiti remover (half bottle)"
+    },
+    {
+      "name": "Gray concrete filler and sealant (2 tubes)"
+    },
+    {
+      "name": "Gray polyurethane sealant (1 tube)"
+    },
+    {
+      "name": "Green muriatic acid",
+      "quantity": "1d6",
+      "units": "quarts"
+    },
+    {
+      "name": "Grinder"
+    },
+    {
+      "name": "Guitar pick"
+    },
+    {
+      "name": "Guitar string",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Gutters, 8'",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Hacksaw",
+      "weight": 3
+    },
+    {
+      "name": "Hair dryer"
+    },
+    {
+      "name": "Hair dye",
+      "quantity": "1d6",
+      "units": "uses"
+    },
+    {
+      "name": "Hair iron"
+    },
+    {
+      "name": "Hand Bellows"
+    },
+    {
+      "name": "Hand drill"
+    },
+    {
+      "name": "Hand towel"
+    },
+    {
+      "name": "Hand wipes",
+      "quantity": "2d6",
+      "units": "packets"
+    },
+    {
+      "name": "Hand wood saw"
+    },
+    {
+      "name": "Handheld mirror"
+    },
+    {
+      "name": "Handsaw"
+    },
+    {
+      "name": "Hard disk drive"
+    },
+    {
+      "name": "Harmonica"
+    },
+    {
+      "name": "Hawaiian shirt"
+    },
+    {
+      "name": "Hawk Feather",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Headphones"
+    },
+    {
+      "name": "Heat gun"
+    },
+    {
+      "name": "Hedge clippers"
+    },
+    {
+      "name": "Hemp rope",
+      "quantity": "1d10x10",
+      "units": "ft"
+    },
+    {
+      "name": "Hockey puck"
+    },
+    {
+      "name": "Hockey stick"
+    },
+    {
+      "name": "Horse bridle"
+    },
+    {
+      "name": "Horse costume (two person)"
+    },
+    {
+      "name": "Hot plate"
+    },
+    {
+      "name": "Hot Wheels cars",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Hula-hoop"
+    },
+    {
+      "name": "Hymnal"
+    },
+    {
+      "name": "Ice cube tray",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Ice scraper"
+    },
+    {
+      "name": "Inflatable raft, 4 person"
+    },
+    {
+      "name": "Ink pen",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Inner tube, large"
+    },
+    {
+      "name": "Instant camera (5 pictures)"
+    },
+    {
+      "name": "Iron tube, 1\" diameter, 6' long",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Jackhammer"
+    },
+    {
+      "name": "Jar of six-sided dice",
+      "quantity": "3d20"
+    },
+    {
+      "name": "Jaro of marbles",
+      "quantity": "10d10"
+    },
+    {
+      "name": "Jenga"
+    },
+    {
+      "name": "Jew's harp"
+    },
+    {
+      "name": "Jewelry box"
+    },
+    {
+      "name": "Jigsaw puzzle, 400 pieces"
+    },
+    {
+      "name": "Journal book, blank"
+    },
+    {
+      "name": "Jumper cables"
+    },
+    {
+      "name": "Junk mail",
+      "quantity": "1d6",
+      "units": "pieces"
+    },
+    {
+      "name": "Kazoo"
+    },
+    {
+      "name": "Kerosene",
+      "quantity": "1d6",
+      "units": "quarts"
+    },
+    {
+      "name": "Kerosene Lantern"
+    },
+    {
+      "name": "Kettle drum"
+    },
+    {
+      "name": "Keyhole saw"
+    },
+    {
+      "name": "Keys on a ring",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Kitchen towel",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Kitty litter (\u00bd bag)"
+    },
+    {
+      "name": "Knitting needle",
+      "quantity": "1d2x2"
+    },
+    {
+      "name": "Lacquer thinner",
+      "quantity": "1d4",
+      "units": "quarts"
+    },
+    {
+      "name": "Ladder, 8'"
+    },
+    {
+      "name": "Lampshade"
+    },
+    {
+      "name": "Laptop"
+    },
+    {
+      "name": "Large insulated cooler"
+    },
+    {
+      "name": "Large Leather pouch"
+    },
+    {
+      "name": "Large metal animal trap"
+    },
+    {
+      "name": "Large Purse"
+    },
+    {
+      "name": "Latex paint",
+      "quantity": "1",
+      "units": "gallon",
+      "subtable": "paint-color"
+    },
+    {
+      "name": "Latex paint (\u00bd gallon)",
+      "subtable": "paint-color"
+    },
+    {
+      "name": "Lathe"
+    },
+    {
+      "name": "Lawn dart",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Lawnchair"
+    },
+    {
+      "name": "Leather needle"
+    },
+    {
+      "name": "Leather strap with buckle",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Leather strips, 1\"x 14\"",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Leather, 4' x 4'"
+    },
+    {
+      "name": "Life jacket"
+    },
+    {
+      "name": "Life jacket"
+    },
+    {
+      "name": "Light fixture"
+    },
+    {
+      "name": "Lighter fluid",
+      "qauntity": "1",
+      "units": "can"
+    },
+    {
+      "name": "Linemen's pliers"
+    },
+    {
+      "name": "Lip balm",
+      "quantity": "1d4+1",
+      "units": "sticks"
+    },
+    {
+      "name": "Lipstick"
+    },
+    {
+      "name": "Liquid nails (\u00bd tube)"
+    },
+    {
+      "name": "Lock pick set"
+    },
+    {
+      "name": "Locket with picture of a child"
+    },
+    {
+      "name": "Locket with picture of a woman"
+    },
+    {
+      "name": "Lug wrench"
+    },
+    {
+      "name": "Luke Skywalker costume"
+    },
+    {
+      "name": "Magazines",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Magnet",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Magnifying glass"
+    },
+    {
+      "name": "Mail organizer"
+    },
+    {
+      "name": "Makeup bag"
+    },
+    {
+      "name": "Mallet"
+    },
+    {
+      "name": "Mandolin"
+    },
+    {
+      "name": "Manual vacuum cleaner"
+    },
+    {
+      "name": "Maps (several city maps)"
+    },
+    {
+      "name": "Maracas"
+    },
+    {
+      "name": "Mason jars with lids",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Matches",
+      "quantity": "5d10"
+    },
+    {
+      "name": "Measuring cup",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Measuring spoons",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Mechanics roller"
+    },
+    {
+      "name": "Men's Swimsuit"
+    },
+    {
+      "name": "Metal bucket, 2 gallon"
+    },
+    {
+      "name": "Metal cigarette case"
+    },
+    {
+      "name": "Metal cracker box"
+    },
+    {
+      "name": "Metal file"
+    },
+    {
+      "name": "Metal file"
+    },
+    {
+      "name": "Metal folding chair"
+    },
+    {
+      "name": "Metal Sheet, 4' x 5'",
+      "quantity": "1d4"
+    },
+    {
+      "name": "Metal trash can lid"
+    },
+    {
+      "name": "Metal wash tub"
+    },
+    {
+      "name": "Microscope"
+    },
+    {
+      "name": "Mineral spirits (1 gallon)"
+    },
+    {
+      "name": "Mini-razor blade scraper"
+    },
+    {
+      "name": "Mobile phone charger"
+    },
+    {
+      "name": "Modeling clay",
+      "quantity": "1d6",
+      "units": "sticks"
+    },
+    {
+      "name": "Moisture absorber",
+      "quantity": "1d6",
+      "units": "lbs"
+    },
+    {
+      "name": "Mold and mildew stain remover (\u00bd bottle)"
+    },
+    {
+      "name": "Mold killer (full bottle)"
+    },
+    {
+      "name": "Mold remover and disinfectant (1 gallon)"
+    },
+    {
+      "name": "Mop"
+    },
+    {
+      "name": "Mortar and pestle"
+    },
+    {
+      "name": "Mosquito net"
+    },
+    {
+      "name": "Mothballs",
+      "quantity": "2d10"
+    },
+    {
+      "name": "Motherboard"
+    },
+    {
+      "name": "Motor oil",
+      "quantity": "1d6",
+      "units": "quarts"
+    },
+    {
+      "name": "Motorcycle tire"
+    },
+    {
+      "name": "Mousetrap",
+      "quantity": "1d12"
+    },
+    {
+      "name": "Multi-tool"
+    },
+    {
+      "name": "Mylar space blanket"
+    },
+    {
+      "name": "Nails, 1\"",
+      "quantity": "5d20"
+    },
+    {
+      "name": "Nails, 2\"",
+      "quantity": "5d20"
+    },
+    {
+      "name": "Nails, 3\"",
+      "quantity": "5d20"
+    },
+    {
+      "name": "Napkins",
+      "quantity": "2d20"
+    },
+    {
+      "name": "Needle nose pliers"
+    },
+    {
+      "name": "Newspaper from the day before"
+    },
+    {
+      "name": "Nickel",
+      "quantity": "1d10"
+    },
+    {
+      "name": "Nightlight"
+    },
+    {
+      "name": "Ninja costume"
+    },
+    {
+      "name": "Nurse costume"
+    },
+    {
+      "name": "Nuts, \u00bd\"",
+      "quantity": "2d20"
+    },
+    {
+      "name": "Nylon handle stiff putty knife, 1\u00bd\""
+    },
+    {
+      "name": "Nylon rope",
+      "weight": 2,
+      "quantity": "1d6x5",
+      "units": "ft"
+    },
+    {
+      "name": "Obo"
+    },
+    {
+      "name": "Ocarina"
+    },
+    {
+      "name": "Oil paint set",
+      "quantity": "1d4",
+      "units": "jars"
+    },
+    {
+      "name": "One dollar bill"
+    },
+    {
+      "name": "One way street sign"
+    },
+    {
+      "name": "Optical Drive"
+    },
+    {
+      "name": "Oven mitt"
+    },
+    {
+      "name": "Padlock with key"
+    },
+    {
+      "name": "Paint grid"
+    },
+    {
+      "name": "Paint palette"
+    },
+    {
+      "name": "Paint roller covers"
+    },
+    {
+      "name": "Paint roller extension pole"
+    },
+    {
+      "name": "Paint roller pan"
+    },
+    {
+      "name": "Paint stirring stick",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Paint stripper",
+      "quantity": "2d2",
+      "units": "quarts"
+    },
+    {
+      "name": "Paint stripping gel (1 tube)"
+    },
+    {
+      "name": "Paint thinner",
+      "quantity": "2d2",
+      "units": "quarts"
+    },
+    {
+      "name": "Paint thinner (1 pint)"
+    },
+    {
+      "name": "Paint, 1 gallon",
+      "subtable": "paint-color"
+    },
+    {
+      "name": "Paintball gun"
+    },
+    {
+      "name": "Paintballs",
+      "quantity": "5d10",
+      "subtable": "paint-color"
+    },
+    {
+      "name": "Paintbrush, \u00bd\""
+    },
+    {
+      "name": "Paintbrush, \u00bc\""
+    },
+    {
+      "name": "Paintbrush, 2\""
+    },
+    {
+      "name": "Paintbrush, 4\""
+    },
+    {
+      "name": "Paintbrush, fan"
+    },
+    {
+      "name": "Paintbrush, fine"
+    },
+    {
+      "name": "Paintbrush, superfine"
+    },
+    {
+      "name": "Painter's tool"
+    },
+    {
+      "name": "Painters taping knife, 12\""
+    },
+    {
+      "name": "Painters taping knife, 8\""
+    },
+    {
+      "name": "Painting canvas, black"
+    },
+    {
+      "name": "Painting canvas",
+      "quantity": "1d10"
+    },
+    {
+      "name": "Palette knife"
+    },
+    {
+      "name": "Pancake machine"
+    },
+    {
+      "name": "Paper shredder"
+    },
+    {
+      "name": "Paper towels",
+      "quantity": "1d6+1",
+      "units": "rolls"
+    },
+    {
+      "name": "Paper towels (1 roll)"
+    },
+    {
+      "name": "Parchment paper (1 roll)"
+    },
+    {
+      "name": "Passport"
+    },
+    {
+      "name": "Pastel paint set"
+    },
+    {
+      "name": "Pen",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Pencil"
+    },
+    {
+      "name": "Pencils",
+      "quantity": "2d4"
+    },
+    {
+      "name": "Penny",
+      "quantity": "1d100"
+    },
+    {
+      "name": "Piano wire",
+      "quantity": "1d6+4",
+      "units": "ft"
+    },
+    {
+      "name": "Piccolo"
+    },
+    {
+      "name": "Pillow",
+      "weight": 2
+    },
+    {
+      "name": "Ping Pong balls",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Ping Pong paddle"
+    },
+    {
+      "name": "Pipe cleaner",
+      "quantity": "2d20"
+    },
+    {
+      "name": "Pipe wrench"
+    },
+    {
+      "name": "Pipettes",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Pirate costume"
+    },
+    {
+      "name": "Plastic bucket, 5 Gallon"
+    },
+    {
+      "name": "Plastic Clothes basket"
+    },
+    {
+      "name": "Plastic clothes hangers",
+      "quantity": "3d10"
+    },
+    {
+      "name": "Plastic funnel"
+    },
+    {
+      "name": "Plastic sealable container",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Plastic storage container, 10 Gal"
+    },
+    {
+      "name": "Plastic trash bags",
+      "quantity": "1d20"
+    },
+    {
+      "name": "Plastic trash can lid"
+    },
+    {
+      "name": "Plastic wrap (\u00bd roll)"
+    },
+    {
+      "name": "Platic hose",
+      "weight": 2,
+      "quantity": "1d10x10",
+      "units": "ft"
+    },
+    {
+      "name": "Platic Oar"
+    },
+    {
+      "name": "Platic Plates",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Pliers, 4\""
+    },
+    {
+      "name": "Pliers, 6\""
+    },
+    {
+      "name": "Plumber's putty (1 can)"
+    },
+    {
+      "name": "Plywood, 2' x 7'"
+    },
+    {
+      "name": "Plywood, 3' x 6'"
+    },
+    {
+      "name": "Plywood, 4' x 8'"
+    },
+    {
+      "name": "Pneumatic nail gun"
+    },
+    {
+      "name": "Pneumatic torque wrench"
+    },
+    {
+      "name": "Pocketknife"
+    },
+    {
+      "name": "Poncho"
+    },
+    {
+      "name": "Ponytail bands",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Pool cue"
+    },
+    {
+      "name": "Popcorn ceiling removal tool"
+    },
+    {
+      "name": "Popcorn maker"
+    },
+    {
+      "name": "Portrait",
+      "weight": 2,
+      "subtable": "us-presidents"
+    },
+    {
+      "name": "Power steering hose"
+    },
+    {
+      "name": "Power Supply"
+    },
+    {
+      "name": "Pressure cooker"
+    },
+    {
+      "name": "Pressure treated lumber, 6\" x 6\" x 6'",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Printer paper",
+      "quantity": "1d4+1",
+      "units": "reams"
+    },
+    {
+      "name": "Printer paper (1 ream)"
+    },
+    {
+      "name": "Pry bar"
+    },
+    {
+      "name": "Pry bar with scraper, 9\u00bd\""
+    },
+    {
+      "name": "Purse"
+    },
+    {
+      "name": "Push lawn mower"
+    },
+    {
+      "name": "Putty knife, 6\""
+    },
+    {
+      "name": "Putty knife, 8\""
+    },
+    {
+      "name": "PVC pipe cement (full can)"
+    },
+    {
+      "name": "PVC pipe, 1\" diameter",
+      "weight": 2,
+      "quantity": "1d12",
+      "units": "ft"
+    },
+    {
+      "name": "PVC pipe, 2\" diameter",
+      "weight": 2,
+      "quantity": "1d12",
+      "units": "ft"
+    },
+    {
+      "name": "PVC pipe, 3\" diameter",
+      "quantity": "1d12",
+      "units": "ft"
+    },
+    {
+      "name": "PVC pipe, 4\" diameter",
+      "quantity": "1d12",
+      "units": "ft"
+    },
+    {
+      "name": "Q-tips",
+      "quantity": "5d100"
+    },
+    {
+      "name": "Quart glass jar",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Quarter",
+      "quantity": "2d6"
+    },
+    {
+      "name": "R2-D2 toy"
+    },
+    {
+      "name": "Rabbit's foot"
+    },
+    {
+      "name": "Racquetball"
+    },
+    {
+      "name": "Radiation suit"
+    },
+    {
+      "name": "Radio receiver"
+    },
+    {
+      "name": "Rags",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Rake"
+    },
+    {
+      "name": "Random-access Memory"
+    },
+    {
+      "name": "Ratchet set",
+      "quantity": "2d6",
+      "units": "sockets"
+    },
+    {
+      "name": "Razor blade",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Razor paint scraper, 1\u00bd\""
+    },
+    {
+      "name": "Razor wire",
+      "quantity": "5d10",
+      "units": "ft"
+    },
+    {
+      "name": "Reciprocating saw"
+    },
+    {
+      "name": "Record player"
+    },
+    {
+      "name": "Recorder"
+    },
+    {
+      "name": "Reflective triangle",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Reusable shopping bags",
+      "quantity": "2d8"
+    },
+    {
+      "name": "Ribbon",
+      "quantity": "1d6",
+      "units": "ft"
+    },
+    {
+      "name": "Rice cooker"
+    },
+    {
+      "name": "Road Flare",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Rolling pin"
+    },
+    {
+      "name": "Roman candle",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Roof shingle",
+      "quantity": "3d12"
+    },
+    {
+      "name": "Roof vent"
+    },
+    {
+      "name": "Rope",
+      "quantity": "2d10",
+      "units": "ft"
+    },
+    {
+      "name": "Rosary beads"
+    },
+    {
+      "name": "Rubber gloves"
+    },
+    {
+      "name": "Rug, 4' X 5'"
+    },
+    {
+      "name": "Rust remover",
+      "quantity": "1d6",
+      "units": "quarts"
+    },
+    {
+      "name": "Saddle"
+    },
+    {
+      "name": "Safety Glasses"
+    },
+    {
+      "name": "Safety goggles"
+    },
+    {
+      "name": "Safety pin",
+      "quantity": "1d20"
+    },
+    {
+      "name": "Safety vest"
+    },
+    {
+      "name": "Sander"
+    },
+    {
+      "name": "Sandpaper, 60-grit",
+      "quantity": "1d6",
+      "units": "sheets"
+    },
+    {
+      "name": "Sandwich toaster"
+    },
+    {
+      "name": "Satin (1 bolt)"
+    },
+    {
+      "name": "Satin (\u00bd bolt)"
+    },
+    {
+      "name": "Satin (2 bolts)"
+    },
+    {
+      "name": "Saxophone"
+    },
+    {
+      "name": "Scissors"
+    },
+    {
+      "name": "Scotch tape",
+      "quantity": "1d6",
+      "units": "rolls"
+    },
+    {
+      "name": "Scraps of paper",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Screwdriver, flathead",
+      "weight": 5
+    },
+    {
+      "name": "Screwdriver, phillips",
+      "weight": 3
+    },
+    {
+      "name": "Screws, 1\"",
+      "quantity": "5d10"
+    },
+    {
+      "name": "Screws, 1\u00bd\"",
+      "quantity": "5d10"
+    },
+    {
+      "name": "Screws, 2\"",
+      "quantity": "5d10"
+    },
+    {
+      "name": "Scrubbing Bubbles cleaner (\u00bd bottle)"
+    },
+    {
+      "name": "Sealable glass jar (1 gallon)"
+    },
+    {
+      "name": "Seat belt cutter"
+    },
+    {
+      "name": "Serving platter"
+    },
+    {
+      "name": "Sewing kit, 2 spools of thread and two needles"
+    },
+    {
+      "name": "Sewing machine"
+    },
+    {
+      "name": "Shaving cream (full can)"
+    },
+    {
+      "name": "Shears"
+    },
+    {
+      "name": "Sheet metal, 3' x 4'"
+    },
+    {
+      "name": "Sheet music, Beethoven's 9th Symphony"
+    },
+    {
+      "name": "Shoe rack"
+    },
+    {
+      "name": "Shoelace",
+      "quantity": "1d3"
+    },
+    {
+      "name": "Shopping cart",
+      "weight": 3
+    },
+    {
+      "name": "Shower caddy"
+    },
+    {
+      "name": "Shower curtain",
+      "weight": 3
+    },
+    {
+      "name": "Shower curtain rings",
+      "weight": 2,
+      "quantity": "2d20"
+    },
+    {
+      "name": "Silicone sealant (\u00bd tube)"
+    },
+    {
+      "name": "Silver Chain Necklace"
+    },
+    {
+      "name": "Silver ring"
+    },
+    {
+      "name": "Silver Ring"
+    },
+    {
+      "name": "Silverware organizer"
+    },
+    {
+      "name": "Sink Plunger"
+    },
+    {
+      "name": "Skeleton costume"
+    },
+    {
+      "name": "Sketchbook",
+      "weight": 2,
+      "quantity": "1d4x10",
+      "units": "pages"
+    },
+    {
+      "name": "Skin lotion (\u00bd bottle)"
+    },
+    {
+      "name": "Sleeping bag",
+      "weight": 2
+    },
+    {
+      "name": "Slip joint pliers"
+    },
+    {
+      "name": "Small car jack"
+    },
+    {
+      "name": "Small insulated cooler"
+    },
+    {
+      "name": "Small Kitchen knife"
+    },
+    {
+      "name": "Small Leather pouch"
+    },
+    {
+      "name": "Small metal animal trap"
+    },
+    {
+      "name": "Small metal cooking pans",
+      "quantity": "1d4+1"
+    },
+    {
+      "name": "Small metal hooks",
+      "quantity": "1d6+1"
+    },
+    {
+      "name": "Small shard of glass",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Small tin cup"
+    },
+    {
+      "name": "Smartphone",
+      "weight": 2
+    },
+    {
+      "name": "Smoke detector"
+    },
+    {
+      "name": "Sneakers",
+      "weight": 5
+    },
+    {
+      "name": "Soap (\u00bd bar)"
+    },
+    {
+      "name": "Soap (1 bar)",
+      "weight": 5
+    },
+    {
+      "name": "Soccer ball (a little low)"
+    },
+    {
+      "name": "Softball",
+      "weight": 2
+    },
+    {
+      "name": "Solar weather radio"
+    },
+    {
+      "name": "Solid state drive"
+    },
+    {
+      "name": "Songbook, folk"
+    },
+    {
+      "name": "Songbook, rock'n roll"
+    },
+    {
+      "name": "Sous-vide cooker"
+    },
+    {
+      "name": "Soy milk maker"
+    },
+    {
+      "name": "Space heater"
+    },
+    {
+      "name": "Spackle",
+      "quantity": "1",
+      "units": "can"
+    },
+    {
+      "name": "Spare tire"
+    },
+    {
+      "name": "Spark plugs",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Spatula"
+    },
+    {
+      "name": "Spiderman costume"
+    },
+    {
+      "name": "Spool of Wire",
+      "quantity": "5d10",
+      "units": "ft"
+    },
+    {
+      "name": "Spoon",
+      "weight": 5
+    },
+    {
+      "name": "Spray paint",
+      "quantity": "1d3",
+      "subtable": "paint-color"
+    },
+    {
+      "name": "Spray paint (\u00bd can)",
+      "subtable": "paint-color"
+    },
+    {
+      "name": "Spyglass"
+    },
+    {
+      "name": "Steak knives",
+      "quantity": "2d4"
+    },
+    {
+      "name": "Steam mop"
+    },
+    {
+      "name": "Steel rod, 1\" diameter, 4' long",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Steel studs",
+      "quantity": "1d6+1"
+    },
+    {
+      "name": "Steering wheel"
+    },
+    {
+      "name": "Step ladder, 3'"
+    },
+    {
+      "name": "Stove cleaner (\u00bd bottle)"
+    },
+    {
+      "name": "String",
+      "weight": 2,
+      "quantity": "2d20",
+      "units": "ft"
+    },
+    {
+      "name": "Suede (1 bolt)"
+    },
+    {
+      "name": "Suede (2 bolts)"
+    },
+    {
+      "name": "Suitcase"
+    },
+    {
+      "name": "Sunglasses",
+      "weight": 2
+    },
+    {
+      "name": "Sunscreen (\u00bd bottle)"
+    },
+    {
+      "name": "Superglue",
+      "quantity": "2d6",
+      "units": "uses"
+    },
+    {
+      "name": "Superglue (1 tube)"
+    },
+    {
+      "name": "T-Rex toy"
+    },
+    {
+      "name": "Table saw"
+    },
+    {
+      "name": "Tackle box, large"
+    },
+    {
+      "name": "Tackle box, small"
+    },
+    {
+      "name": "Tambourine"
+    },
+    {
+      "name": "Tanned Deer skin"
+    },
+    {
+      "name": "Tap shoes"
+    },
+    {
+      "name": "Tape dispenser"
+    },
+    {
+      "name": "Tape measure, 12'"
+    },
+    {
+      "name": "Tarp, 10' x 10'"
+    },
+    {
+      "name": "Tarp, 12' x 12'"
+    },
+    {
+      "name": "Teacup"
+    },
+    {
+      "name": "Teddy bear (worn)"
+    },
+    {
+      "name": "Telescope"
+    },
+    {
+      "name": "Ten dollar bill"
+    },
+    {
+      "name": "Tennis ball"
+    },
+    {
+      "name": "Tent, four person"
+    },
+    {
+      "name": "Tent, two person"
+    },
+    {
+      "name": "Terrycloth (\u00bd bolt)"
+    },
+    {
+      "name": "Test tubes",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Thermometer, scientific"
+    },
+    {
+      "name": "Tie press"
+    },
+    {
+      "name": "Tin snips"
+    },
+    {
+      "name": "Tire iron"
+    },
+    {
+      "name": "Tire patch kit",
+      "quantity": "1d6+1",
+      "units": "patches"
+    },
+    {
+      "name": "Tire pressure gauge"
+    },
+    {
+      "name": "Tire sealer"
+    },
+    {
+      "name": "Tissues (\u00bd box)"
+    },
+    {
+      "name": "Toaster"
+    },
+    {
+      "name": "Toaster oven"
+    },
+    {
+      "name": "Toilet paper",
+      "weight": 3,
+      "quantity": "1d4+1",
+      "units": "rolls"
+    },
+    {
+      "name": "Toilet Plunger"
+    },
+    {
+      "name": "Tongs"
+    },
+    {
+      "name": "Tool belt"
+    },
+    {
+      "name": "Toothbrush (unopened)"
+    },
+    {
+      "name": "Toothpaste (\u00bd tube)"
+    },
+    {
+      "name": "Toothpicks",
+      "weight": 2,
+      "quantity": "2d100"
+    },
+    {
+      "name": "Tow strap"
+    },
+    {
+      "name": "Transmission fluid",
+      "quantity": "1d6",
+      "units": "quarts"
+    },
+    {
+      "name": "Triple antibiotic cream",
+      "quantity": "2d10",
+      "units": "uses"
+    },
+    {
+      "name": "Trolling motor"
+    },
+    {
+      "name": "Trombone"
+    },
+    {
+      "name": "Trumpet"
+    },
+    {
+      "name": "Trunk"
+    },
+    {
+      "name": "Tuba"
+    },
+    {
+      "name": "Tupperware container"
+    },
+    {
+      "name": "TV rabbit ears"
+    },
+    {
+      "name": "Tweezers"
+    },
+    {
+      "name": "Twenty dollar bill"
+    },
+    {
+      "name": "Twine",
+      "quantity": "2d20",
+      "units": "ft"
+    },
+    {
+      "name": "Two-way pulley, 3\""
+    },
+    {
+      "name": "Umbrella"
+    },
+    {
+      "name": "Umbrella, slightly bent, torn"
+    },
+    {
+      "name": "Universal wheat paste",
+      "quantity": "1d6",
+      "units": "lbs"
+    },
+    {
+      "name": "Upright dolly"
+    },
+    {
+      "name": "USB drive"
+    },
+    {
+      "name": "USB mobile device charger"
+    },
+    {
+      "name": "Utensil holder"
+    },
+    {
+      "name": "Vase"
+    },
+    {
+      "name": "Vegetable peeler"
+    },
+    {
+      "name": "Velvet (1 bolt)"
+    },
+    {
+      "name": "Velvet (\u00bd bolt)"
+    },
+    {
+      "name": "VHS tape",
+      "weight": 2,
+      "quantity": "1d20"
+    },
+    {
+      "name": "Video game cartridge",
+      "weight": 3,
+      "quantity": "2d6"
+    },
+    {
+      "name": "Video game console"
+    },
+    {
+      "name": "Vinyl fencing",
+      "quantity": "2d6",
+      "units": "pieces"
+    },
+    {
+      "name": "Vinyl record, country"
+    },
+    {
+      "name": "Vinyl record, Elvis"
+    },
+    {
+      "name": "Vinyl record, R&B"
+    },
+    {
+      "name": "Viola"
+    },
+    {
+      "name": "Violin"
+    },
+    {
+      "name": "Violin resin"
+    },
+    {
+      "name": "Bench Vise"
+    },
+    {
+      "name": "Vise grips"
+    },
+    {
+      "name": "Volleyball, flat"
+    },
+    {
+      "name": "Waffie iron"
+    },
+    {
+      "name": "Wallcovering adhesive",
+      "quantity": "1d4+1",
+      "units": "gallons"
+    },
+    {
+      "name": "Wallet"
+    },
+    {
+      "name": "Wallpaper adhesive (1 gallon)"
+    },
+    {
+      "name": "Wallpaper paste (2 gallons)"
+    },
+    {
+      "name": "Wallpaper stripper (\u00bd gallon)"
+    },
+    {
+      "name": "Washcloth",
+      "weight": 3,
+      "quantity": "1d6"
+    },
+    {
+      "name": "Washers, 1\"",
+      "quantity": "2d10"
+    },
+    {
+      "name": "Washers, \u00bd\"",
+      "quantity": "2d10"
+    },
+    {
+      "name": "Waste paint hardener",
+      "quantity": "1d6+1",
+      "units": "lbs"
+    },
+    {
+      "name": "Water bottle, empty",
+      "weight": 2,
+      "quantity": "1d6"
+    },
+    {
+      "name": "Water pistol"
+    },
+    {
+      "name": "Watercolor paint set"
+    },
+    {
+      "name": "Watering can"
+    },
+    {
+      "name": "Watertight roof sealant (5 gallons)"
+    },
+    {
+      "name": "Wax paper (\u00bd roll)"
+    },
+    {
+      "name": "WD-40 (\u00bd can)"
+    },
+    {
+      "name": "WD-40",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Weather balloon"
+    },
+    {
+      "name": "Weed trimmer line",
+      "quantity": "2d100",
+      "units": "ft"
+    },
+    {
+      "name": "Wheelbarrow",
+      "weight": 2
+    },
+    {
+      "name": "Wheeled Bucket"
+    },
+    {
+      "name": "Whisk"
+    },
+    {
+      "name": "White acrylic latex caulk (1 tube)"
+    },
+    {
+      "name": "White exterior sealant",
+      "quantity": "1d4+1",
+      "units": "tubes"
+    },
+    {
+      "name": "White glue (\u00bd bottle)"
+    },
+    {
+      "name": "White indoor sealant (1 tube)"
+    },
+    {
+      "name": "White polyurethane siding sealant (1 tube)"
+    },
+    {
+      "name": "White tile caulk",
+      "quantity": "1d4+1",
+      "units": "tubes"
+    },
+    {
+      "name": "Wicker basket",
+      "weight": 3
+    },
+    {
+      "name": "Windex (\u00bd bottle)"
+    },
+    {
+      "name": "Window breaker"
+    },
+    {
+      "name": "Wine glasses",
+      "quantity": "1d4+1"
+    },
+    {
+      "name": "Winter coat",
+      "weight": 5
+    },
+    {
+      "name": "Wire",
+      "quantity": "1d6",
+      "units": "ft"
+    },
+    {
+      "name": "Wire brush"
+    },
+    {
+      "name": "Wire Colander"
+    },
+    {
+      "name": "Witch costume"
+    },
+    {
+      "name": "Wizard costume"
+    },
+    {
+      "name": "Women's Swimsuit"
+    },
+    {
+      "name": "Wood Clamp",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Wood fencing",
+      "quantity": "2d10",
+      "units": "pieces"
+    },
+    {
+      "name": "Wood glue (1 tube)"
+    },
+    {
+      "name": "Wood Oar"
+    },
+    {
+      "name": "Wood plank, 1\" x 6\" x 7'",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Wood stain (\u00bd gallon)"
+    },
+    {
+      "name": "Wooden clothes hangers",
+      "quantity": "5d10"
+    },
+    {
+      "name": "Wooden crutch"
+    },
+    {
+      "name": "Wooden mallet"
+    },
+    {
+      "name": "Wooden shutter"
+    },
+    {
+      "name": "Wooden toy sword"
+    },
+    {
+      "name": "Wool blanket",
+      "weight": 5
+    },
+    {
+      "name": "Wool fabric (1 bolt)"
+    },
+    {
+      "name": "Wool fabric (2 bolts)"
+    },
+    {
+      "name": "Wool fabric (\u00bd bolt)"
+    },
+    {
+      "name": "Work gloves",
+      "weight": 3
+    },
+    {
+      "name": "Wrench (\u00bc\")"
+    },
+    {
+      "name": "Wrench set"
+    },
+    {
+      "name": "Yarn",
+      "weight": 2,
+      "quantity": "1d4+1",
+      "units": "skeins"
+    },
+    {
+      "name": "Yeast",
+      "quantity": "2d4",
+      "units": "packets"
+    },
+    {
+      "name": "Yo-yo"
+    }
+  ]
+}

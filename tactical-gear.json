@@ -1,0 +1,305 @@
+{
+  "name": "Tactical Gear",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "name": "Ammo belt, 10 shell holders and one pouch"
+    },
+    {
+      "name": "Ammo belt, 10 shell holders and two pockets"
+    },
+    {
+      "name": "Ammo belt, 20 shell holders"
+    },
+    {
+      "name": "Ammo belt, 30 cartridge holders"
+    },
+    {
+      "name": "Army belt, 3 pockets, 30 cartridge holders"
+    },
+    {
+      "name": "Army jacket, camo"
+    },
+    {
+      "name": "Baseball batter's helmet"
+    },
+    {
+      "name": "Baseball catcher's mask"
+    },
+    {
+      "name": "Bicycle helmet"
+    },
+    {
+      "name": "Bulletproof vest"
+    },
+    {
+      "name": "Camo fatigues"
+    },
+    {
+      "name": "Chest mag pouch, black"
+    },
+    {
+      "name": "Concealment holster"
+    },
+    {
+      "name": "Construction hard hat"
+    },
+    {
+      "name": "Double mag pouch, black"
+    },
+    {
+      "name": "Duty belt, black"
+    },
+    {
+      "name": "Duty belt, camo"
+    },
+    {
+      "name": "Fencing chest protector"
+    },
+    {
+      "name": "Fencing helmet"
+    },
+    {
+      "name": "Football helmet"
+    },
+    {
+      "name": "Football shoulder pads"
+    },
+    {
+      "name": "Gun rug, black"
+    },
+    {
+      "name": "Hockey elbow pads"
+    },
+    {
+      "name": "Hockey goalie mask"
+    },
+    {
+      "name": "Hockey knee pads"
+    },
+    {
+      "name": "Hockey shin guards"
+    },
+    {
+      "name": "Jockstrap"
+    },
+    {
+      "name": "Lacrosse elbow pads"
+    },
+    {
+      "name": "Lacrosse helmet"
+    },
+    {
+      "name": "Lacrosse knee pads"
+    },
+    {
+      "name": "Leather armor"
+    },
+    {
+      "name": "Leather gauntlets"
+    },
+    {
+      "name": "Leather gun belt"
+    },
+    {
+      "name": "Leather hip holster with belt"
+    },
+    {
+      "name": "Leather knife sheath, belt"
+    },
+    {
+      "name": "Leather knife sheath, belt"
+    },
+    {
+      "name": "Leather pistol holster, belt clip"
+    },
+    {
+      "name": "Leather rifle back holster"
+    },
+    {
+      "name": "Leather pouch"
+    },
+    {
+      "name": "Load bearing suspenders"
+    },
+    {
+      "name": "Magazine pouch, black"
+    },
+    {
+      "name": "Magazine pouch, camo"
+    },
+    {
+      "name": "Military boots"
+    },
+    {
+      "name": "Military serpa combo kit"
+    },
+    {
+      "name": "Motorcycle chest protector"
+    },
+    {
+      "name": "Motorcycle elbow pads"
+    },
+    {
+      "name": "Motorcycle helmet"
+    },
+    {
+      "name": "Motorcycle knee pads"
+    },
+    {
+      "name": "Mouthguard"
+    },
+    {
+      "name": "Nylon ankle holster"
+    },
+    {
+      "name": "Nylon backpack, camo"
+    },
+    {
+      "name": "Nylon belt keepers, black",
+      "weight": 2,
+      "quantity": "2d6"
+    },
+    {
+      "name": "Nylon belt keepers, camo",
+      "quantity": "2d4"
+    },
+    {
+      "name": "Nylon handcuff case"
+    },
+    {
+      "name": "Nylon hip holster with belt"
+    },
+    {
+      "name": "Nylon knife sheath, belt"
+    },
+    {
+      "name": "Nylon knife sheath, boot"
+    },
+    {
+      "name": "Nylon pistol holster, belt clip"
+    },
+    {
+      "name": "Nylon pistol shoulder holster"
+    },
+    {
+      "name": "Nylon pouch"
+    },
+    {
+      "name": "Padded vest, camo"
+    },
+    {
+      "name": "Padded vest, khaki"
+    },
+    {
+      "name": "Paintball mask"
+    },
+    {
+      "name": "Plate carrier harness, black"
+    },
+    {
+      "name": "Plate carrier harness, camo"
+    },
+    {
+      "name": "Plate carrier harness, khaki"
+    },
+    {
+      "name": "Police riot helmet"
+    },
+    {
+      "name": "Police riot shield"
+    },
+    {
+      "name": "Police riot suit"
+    },
+    {
+      "name": "Reon gloves, black"
+    },
+    {
+      "name": "Riggers belt, camo"
+    },
+    {
+      "name": "Roller skating elbow pads"
+    },
+    {
+      "name": "Roller skating helmet"
+    },
+    {
+      "name": "Roller skating knee pads"
+    },
+    {
+      "name": "Shotgun bandolier, 35 loops"
+    },
+    {
+      "name": "Shotgun bandolier, 55 loops"
+    },
+    {
+      "name": "Soccer shin guards"
+    },
+    {
+      "name": "Tactical backpack, black"
+    },
+    {
+      "name": "Tactical backpack, khaki"
+    },
+    {
+      "name": "Tactical belt, black"
+    },
+    {
+      "name": "Tactical belt, camo"
+    },
+    {
+      "name": "Tactical elbow pads"
+    },
+    {
+      "name": "Tactical gloves, camo"
+    },
+    {
+      "name": "Tactical gloves, khaki"
+    },
+    {
+      "name": "Tactical holster, load bearing, green"
+    },
+    {
+      "name": "Tactical jacket, tan"
+    },
+    {
+      "name": "Tactical knee pads"
+    },
+    {
+      "name": "Tactical pants, black"
+    },
+    {
+      "name": "Tactical pants, camo"
+    },
+    {
+      "name": "Tactical pants, khaki"
+    },
+    {
+      "name": "Tactical platform holster"
+    },
+    {
+      "name": "Tactical shirt, black"
+    },
+    {
+      "name": "Tactical shirt, camo"
+    },
+    {
+      "name": "Tactical shorts, black"
+    },
+    {
+      "name": "Tactical shorts, camo"
+    },
+    {
+      "name": "Tactical shorts, grey"
+    },
+    {
+      "name": "Tactical vest, camo",
+      "weight": 2
+    },
+    {
+      "name": "Tactical vest, khaki"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "name": "TABLE NAME",
+  "type": "items",
+  "total-weight": 99,
+  "rows": [
+    {
+      "name": "Amphetamines",
+      "weight": 2,
+      "quantity": "1d20"
+    },
+    {
+      "name": "Bath Salts",
+      "weight": 2,
+      "quantity": "1d6"
+    },
+    {
+      "name": "Black tar heroin",
+      "quantity": "1d6",
+      "units": "doses"
+    },
+    {
+      "name": "Caffeine",
+      "weight": 3,
+      "quantity": "5d10",
+      "units": "pills"
+    },
+    {
+      "name": "Chewing tobacco",
+      "weight": 3,
+      "quantity": "2d6",
+      "units": "doses"
+    },
+    {
+      "name": "Cigarette",
+      "quantity": "1d20"
+    },
+    {
+      "name": "Cigarettes (1 carton)"
+    },
+    {
+      "name": "Cigarettes (1 pack)",
+      "weight": 2
+    },
+    {
+      "name": "Cigarettes",
+      "weight": 10,
+      "quantity": "2d6",
+      "units": "packs"
+    },
+    {
+      "name": "Cigars (1 full box)"
+    },
+    {
+      "name": "Cigars",
+      "weight": 3,
+      "quantity": "1d10"
+    },
+    {
+      "name": "Clove cigarettes",
+      "quantity": "1d10"
+    },
+    {
+      "name": "Cocaine",
+      "units": "dose"
+    },
+    {
+      "name": "Cocaine",
+      "weight": 3,
+      "quantity": "11d6+1",
+      "units": "doses"
+    },
+    {
+      "name": "Crack",
+      "weight": 4,
+      "quantity": "1d6+1",
+      "units": "doses"
+    },
+    {
+      "name": "Crack",
+      "units": "dose"
+    },
+    {
+      "name": "Ecstasy",
+      "weight": 6,
+      "quantity": "2d6x5"
+    },
+    {
+      "name": "Fentanyl (1 dose)"
+    },
+    {
+      "name": "Fentanyl",
+      "weight": 3,
+      "quantity": "1d6+1",
+      "units": "doses"
+    },
+    {
+      "name": "GHB",
+      "weight": 5,
+      "quantity": "1d20"
+    },
+    {
+      "name": "Hashish (1 dose)"
+    },
+    {
+      "name": "Hashish",
+      "weight": 4,
+      "quantity": "1d6+1",
+      "units": "doses"
+    },
+    {
+      "name": "Heroin",
+      "weight": 2,
+      "quantity": "2d10",
+      "units": "doses"
+    },
+    {
+      "name": "K2",
+      "units": "dose"
+    },
+    {
+      "name": "K2",
+      "quantity": "2d4",
+      "units": "doses"
+    },
+    {
+      "name": "Laudanum",
+      "quantity": "2d6",
+      "units": "doses"
+    },
+    {
+      "name": "Lean",
+      "weight": 2,
+      "quantity": "2d4",
+      "units": "doses"
+    },
+    {
+      "name": "LSD",
+      "weight": 2,
+      "quantity": "2d6",
+      "units": "doses"
+    },
+    {
+      "name": "Marijuana",
+      "weight": 5,
+      "quantity": "2d6",
+      "units": "doses"
+    },
+    {
+      "name": "Methamphetamine (1 dose)"
+    },
+    {
+      "name": "Methamphetamine",
+      "weight": 2,
+      "quantity": "2d4",
+      "units": "doses"
+    },
+    {
+      "name": "Opium",
+      "quantity": "1d6",
+      "units": "doses"
+    },
+    {
+      "name": "Oxycodone",
+      "quantity": "1d20",
+      "units": "pills"
+    },
+    {
+      "name": "PCP",
+      "quantity": "2d3",
+      "units": "doses"
+    },
+    {
+      "name": "Peyote",
+      "quantity": "1d6+1",
+      "units": "doses"
+    },
+    {
+      "name": "Poppers",
+      "weight": 4,
+      "quantity": "2d6",
+      "units": "doses"
+    },
+    {
+      "name": "Roche",
+      "weight": 4,
+      "quantity": "2d6"
+    },
+    {
+      "name": "Sally-D",
+      "weight": 4,
+      "quantity": "2d6"
+    },
+    {
+      "name": "Shrooms",
+      "weight": 3,
+      "quantity": "2d6"
+    },
+    {
+      "name": "Special K (1 dose)"
+    },
+    {
+      "name": "Special K",
+      "weight": 3,
+      "quantity": "2d6",
+      "units": "doses"
+    }
+  ]
+}

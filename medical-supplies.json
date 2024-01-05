@@ -1,0 +1,352 @@
+{
+  "name": "Over-the-Counter Drugs & Medical Supplies",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "name": "Artificial Tears",
+      "quantity": "3d6+10",
+      "units": "uses"
+    },
+    {
+      "name": "Sudafed",
+      "quantity": "3d6+5",
+      "units": "pills"
+    },
+    {
+      "name": "Hand Sanitizer",
+      "weight": 5,
+      "quantity": "5d10",
+      "units": "uses"
+    },
+    {
+      "name": "Pepcid",
+      "quantity": "4d10",
+      "units": "pills"
+    },
+    {
+      "name": "Ibuprofen",
+      "quantity": "10d10",
+      "units": "pills"
+    },
+    {
+      "name": "lsopropyl Alcohol",
+      "weight": 2,
+      "quantity": "1d2",
+      "units": "bottle"
+    },
+    {
+      "name": "Robitussin",
+      "quantity": "1",
+      "units": "bottle"
+    },
+    {
+      "name": "Children's Dimetapp (\u00bd bottle)"
+    },
+    {
+      "name": "Orajel",
+      "quantity": "2dd+3",
+      "units": "uses"
+    },
+    {
+      "name": "Adhesive Bandages",
+      "weight": 5,
+      "quantity": "5d20"
+    },
+    {
+      "name": "Syringes",
+      "quantity": "2d4"
+    },
+    {
+      "name": "Tweezers"
+    },
+    {
+      "name": "Vitamin B6",
+      "quantity": "2d10",
+      "units": "pills"
+    },
+    {
+      "name": "Tagamet",
+      "quantity": "2d6",
+      "units": "pills"
+    },
+    {
+      "name": "Bactine",
+      "quantity": "3d6+5",
+      "units": "uses"
+    },
+    {
+      "name": "Benzoyl Peroxide (\u00bd bottle)"
+    },
+    {
+      "name": "Non-latex Examination Gloves",
+      "quantity": "2d10"
+    },
+    {
+      "name": "Nexium",
+      "quantity": "3d10",
+      "units": "pills"
+    },
+    {
+      "name": "Dulcolax",
+      "quantity": "3d6+3",
+      "units": "pills"
+    },
+    {
+      "name": "Alcohol Swabs",
+      "weight": 3,
+      "quantity": "2d10"
+    },
+    {
+      "name": "St. John's Wort",
+      "quantity": "5d10+50",
+      "units": "pills"
+    },
+    {
+      "name": "Non-stick Sterile Bandages",
+      "quantity": "5d10"
+    },
+    {
+      "name": "Cortaid",
+      "quantity": "3d10",
+      "units": "pills"
+    },
+    {
+      "name": "Abreva",
+      "quantity": "3d8+10",
+      "units": "pills"
+    },
+    {
+      "name": "Advil",
+      "quantity": "5d10",
+      "units": "pills"
+    },
+    {
+      "name": "Rubber Tourniquet"
+    },
+    {
+      "name": "Calamine Lotion (\u00bd bottle)"
+    },
+    {
+      "name": "Zaditor",
+      "quantity": "3d10+10",
+      "units": "pills"
+    },
+    {
+      "name": "Elastic Wrap Bandages",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Zinc",
+      "quantity": "5d10+10",
+      "units": "uses"
+    },
+    {
+      "name": "Polysporin",
+      "quantity": "2d10",
+      "units": "uses"
+    },
+    {
+      "name": "Antiseptic Towelettes",
+      "weight": 4,
+      "quantity": "5d10"
+    },
+    {
+      "name": "Aleve",
+      "quantity": "10d10",
+      "units": "pills"
+    },
+    {
+      "name": "Fish Oil",
+      "quantity": "10d10",
+      "units": "pills"
+    },
+    {
+      "name": "Allegra",
+      "quantity": "10d10",
+      "units": "pills"
+    },
+    {
+      "name": "Zantac",
+      "quantity": "2d10",
+      "units": "pills"
+    },
+    {
+      "name": "Gaviscon",
+      "quantity": "10d10",
+      "units": "pills"
+    },
+    {
+      "name": "Maalox",
+      "quantity": "1",
+      "units": "bottle"
+    },
+    {
+      "name": "Zyrtec",
+      "quantity": "4d10",
+      "units": "pills"
+    },
+    {
+      "name": "Tinactin",
+      "quantity": "2d10",
+      "units": "uses"
+    },
+    {
+      "name": "Tylenol",
+      "weight": 4,
+      "quantity": "5d20",
+      "units": "pills"
+    },
+    {
+      "name": "Rolaids",
+      "quantity": "4d10",
+      "units": "pills"
+    },
+    {
+      "name": "Imodium",
+      "quantity": "2d10",
+      "units": "pills"
+    },
+    {
+      "name": "Vitamin C",
+      "quantity": "10d10",
+      "units": "pills"
+    },
+    {
+      "name": "Cotton Balls",
+      "weight": 3,
+      "quantity": "2d10x6"
+    },
+    {
+      "name": "Benadryl",
+      "quantity": "2d10",
+      "units": "pills"
+    },
+    {
+      "name": "Neosporin",
+      "quantity": "2d10",
+      "units": "pills"
+    },
+    {
+      "name": "Betadine",
+      "quantity": "10d10",
+      "units": "uses"
+    },
+    {
+      "name": "Claritin",
+      "quantity": "10d10",
+      "units": "pills"
+    },
+    {
+      "name": "Nasalcrom",
+      "quantity": "2d10",
+      "units": "uses"
+    },
+    {
+      "name": "Vitamin D",
+      "quantity": "10d10",
+      "units": "pills"
+    },
+    {
+      "name": "Scissors"
+    },
+    {
+      "name": "Micatin",
+      "quantity": "10d10",
+      "units": "pills"
+    },
+    {
+      "name": "Instant cold packs",
+      "quantity": "2d10"
+    },
+    {
+      "name": "Surgical Tape (\u00bd roll)"
+    },
+    {
+      "name": "Surgical Tape",
+      "weight": 2,
+      "quantity": "1d4",
+      "units": "rolls"
+    },
+    {
+      "name": "Butterfly bandages",
+      "quantity": "4d10"
+    },
+    {
+      "name": "Surgical Masks",
+      "weight": 2,
+      "quantity": "2d3"
+    },
+    {
+      "name": "Calcium",
+      "quantity": "10d10",
+      "units": "pills"
+    },
+    {
+      "name": "Excedrin",
+      "weight": 4,
+      "quantity": "10d10",
+      "units": "pills"
+    },
+    {
+      "name": "Petroleum Jelly",
+      "quantity": "1",
+      "units": "jar"
+    },
+    {
+      "name": "Motrin",
+      "weight": 3,
+      "quantity": "10d10",
+      "units": "pills"
+    },
+    {
+      "name": "Thermometer"
+    },
+    {
+      "name": "Colace",
+      "quantity": "5d10",
+      "units": "pills"
+    },
+    {
+      "name": "Lotrimin",
+      "quantity": "5d10",
+      "units": "pills"
+    },
+    {
+      "name": "Vitamin B3",
+      "quantity": "10d10",
+      "units": "pills"
+    },
+    {
+      "name": "Flonase",
+      "quantity": "2d12",
+      "units": "pills"
+    },
+    {
+      "name": "Benzoyl Peroxide",
+      "weight": 2,
+      "quantity": "2d4",
+      "units": "bottles"
+    },
+    {
+      "name": "Pepto-Bismol",
+      "weight": 2,
+      "quantity": "1d2",
+      "units": "bottles"
+    },
+    {
+      "name": "Test Strips",
+      "quantity": "3d10"
+    },
+    {
+      "name": "Miralax",
+      "quantity": "5d10",
+      "units": "uses"
+    },
+    {
+      "name": "Mucinex",
+      "quantity": "2d10",
+      "units": "pills"
+    }
+  ]
+}

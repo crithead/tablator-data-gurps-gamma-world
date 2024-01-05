@@ -1,0 +1,607 @@
+{
+  "name": "Medications",
+  "type": "items",
+  "total-weight": 200,
+  "rows": [
+    {
+      "name": "Liraglutide"
+    },
+    {
+      "name": "Levetiracetam"
+    },
+    {
+      "name": "Clonazepam"
+    },
+    {
+      "name": "Meloxicam"
+    },
+    {
+      "name": "Hydrocortisone"
+    },
+    {
+      "name": "Metformin HCI/Sitagliptin Phosphate"
+    },
+    {
+      "name": "Nystatin"
+    },
+    {
+      "name": "Nifedipine"
+    },
+    {
+      "name": "Divalproex Sodium"
+    },
+    {
+      "name": "Doxazosin Mesylate"
+    },
+    {
+      "name": "Pantoprazole Sodium"
+    },
+    {
+      "name": "Clopidogrel Bisulfate"
+    },
+    {
+      "name": "Atenolol"
+    },
+    {
+      "name": "Simvastatin"
+    },
+    {
+      "name": "Risperidone"
+    },
+    {
+      "name": "Montelukast"
+    },
+    {
+      "name": "Ezetimibe"
+    },
+    {
+      "name": "Mesalamine"
+    },
+    {
+      "name": "Phenytoin"
+    },
+    {
+      "name": "Terazosin"
+    },
+    {
+      "name": "Temazepam"
+    },
+    {
+      "name": "Ranitidine"
+    },
+    {
+      "name": "Acetaminophen"
+    },
+    {
+      "name": "Albuterol"
+    },
+    {
+      "name": "Valsartan"
+    },
+    {
+      "name": "Oxycodone"
+    },
+    {
+      "name": "Folic Acid"
+    },
+    {
+      "name": "Desogestrel/Ethinyl Estradiol"
+    },
+    {
+      "name": "Methylprednisolone"
+    },
+    {
+      "name": "Metoprolol"
+    },
+    {
+      "name": "Bupropion"
+    },
+    {
+      "name": "Ethinyl Estradiol/Levonorgestrel"
+    },
+    {
+      "name": "Sumatriptan"
+    },
+    {
+      "name": "Morphine"
+    },
+    {
+      "name": "Famotidine"
+    },
+    {
+      "name": "Valacyclovir"
+    },
+    {
+      "name": "Sodium"
+    },
+    {
+      "name": "Ezetimibe/Simvastatin"
+    },
+    {
+      "name": "Duloxetine"
+    },
+    {
+      "name": "Ethinyl Estradiol/Norethindrone"
+    },
+    {
+      "name": "Tramadol Hydrochloride"
+    },
+    {
+      "name": "Paroxetine"
+    },
+    {
+      "name": "Amlodipine Besylate"
+    },
+    {
+      "name": "Hydrochlorothiazide/Lisinopril"
+    },
+    {
+      "name": "Testosterone"
+    },
+    {
+      "name": "Sulfamethoxazole/Trimethoprim"
+    },
+    {
+      "name": "Ouetiapine Fumarate"
+    },
+    {
+      "name": "Buspirone Hydrochloride"
+    },
+    {
+      "name": "Diazepam"
+    },
+    {
+      "name": "Pioglitazone Hydrochloride"
+    },
+    {
+      "name": "Clindamycin"
+    },
+    {
+      "name": "Hydrochlorothiazide"
+    },
+    {
+      "name": "Omeprazole"
+    },
+    {
+      "name": "Ondansetron"
+    },
+    {
+      "name": "Lisinopril"
+    },
+    {
+      "name": "Benztropine Mesylate"
+    },
+    {
+      "name": "Benzonatate"
+    },
+    {
+      "name": "Citalopram"
+    },
+    {
+      "name": "Chlorthalidone"
+    },
+    {
+      "name": "Amiodarone Hydrochloride"
+    },
+    {
+      "name": "Lamotrigine"
+    },
+    {
+      "name": "Alprazolam"
+    },
+    {
+      "name": "Sertraline Hydrochloride"
+    },
+    {
+      "name": "Loratadine"
+    },
+    {
+      "name": "Amoxicillin"
+    },
+    {
+      "name": "Escitalopram Oxalate"
+    },
+    {
+      "name": "Zolpidem Tartrate"
+    },
+    {
+      "name": "Guaifenesin"
+    },
+    {
+      "name": "Anastrozole"
+    },
+    {
+      "name": "HydrochlorothiazideNalsartan"
+    },
+    {
+      "name": "Donepezil Hydrochloride"
+    },
+    {
+      "name": "Cyclobenzaprine Hydrochloride"
+    },
+    {
+      "name": "Dexmethylphenidate Hydrochloride"
+    },
+    {
+      "name": "Nitroglycerin"
+    },
+    {
+      "name": "Hydroxyzine"
+    },
+    {
+      "name": "Drospirenone/Ethinyl Estradiol"
+    },
+    {
+      "name": "Hydrochlorothiazide/Triamterene"
+    },
+    {
+      "name": "Ergocalciferol"
+    },
+    {
+      "name": "Lisdexamfetamine Dimesylate"
+    },
+    {
+      "name": "Ramipril"
+    },
+    {
+      "name": "Methylphenidate"
+    },
+    {
+      "name": "Olmesartan Medoxomil"
+    },
+    {
+      "name": "Tamsulosin Hydrochloride"
+    },
+    {
+      "name": "Lorazepam"
+    },
+    {
+      "name": "Trazodone Hydrochloride"
+    },
+    {
+      "name": "Pregabalin"
+    },
+    {
+      "name": "Hydrochlorothiazide/Losartan Potassium"
+    },
+    {
+      "name": "Cetirizine Hydrochloride"
+    },
+    {
+      "name": "Ethinyl Estradiol/Norgestimate"
+    },
+    {
+      "name": "Cyanocobalamin"
+    },
+    {
+      "name": "Potassium"
+    },
+    {
+      "name": "Insulin Lispro"
+    },
+    {
+      "name": "Methocarbamol"
+    },
+    {
+      "name": "Levothyroxine"
+    },
+    {
+      "name": "Fluoxetine Hydrochloride"
+    },
+    {
+      "name": "Furosemide"
+    },
+    {
+      "name": "Docusate"
+    },
+    {
+      "name": "Sitagliptin Phosphate"
+    },
+    {
+      "name": "Allopurinol"
+    },
+    {
+      "name": "Hydralazine Hydrochloride"
+    },
+    {
+      "name": "Lansoprazole"
+    },
+    {
+      "name": "Insulin Detemir"
+    },
+    {
+      "name": "Atenolol/Chlorthalidone"
+    },
+    {
+      "name": "Finasteride"
+    },
+    {
+      "name": "Nortriptyline Hydrochloride"
+    },
+    {
+      "name": "Amitriptyline"
+    },
+    {
+      "name": "Acyclovir"
+    },
+    {
+      "name": "Sodium Fluoride"
+    },
+    {
+      "name": "Topiramate"
+    },
+    {
+      "name": "Quinapril"
+    },
+    {
+      "name": "Enalapril Maleate"
+    },
+    {
+      "name": "Tizanidine"
+    },
+    {
+      "name": "Digoxin"
+    },
+    {
+      "name": "Atorvastatin"
+    },
+    {
+      "name": "Albuterol Sulfate/lpratropium Bromide"
+    },
+    {
+      "name": "Budesonide/Formoterol"
+    },
+    {
+      "name": "Aspirin"
+    },
+    {
+      "name": "Fluticasone Propionate/Salmeterol Xinafoate"
+    },
+    {
+      "name": "Insulin Aspart"
+    },
+    {
+      "name": "Lovastatin"
+    },
+    {
+      "name": "Magnesium"
+    },
+    {
+      "name": "Venlafaxine Hydrochloride"
+    },
+    {
+      "name": "Carvedilol"
+    },
+    {
+      "name": "Baclofen"
+    },
+    {
+      "name": "Fluticasone"
+    },
+    {
+      "name": "Aripiprazole"
+    },
+    {
+      "name": "Promethazine Hydrochloride"
+    },
+    {
+      "name": "Celecoxib"
+    },
+    {
+      "name": "Amphetamine"
+    },
+    {
+      "name": "Pravastatin Sodium"
+    },
+    {
+      "name": "Diltiazem Hydrochloride"
+    },
+    {
+      "name": "Ropinirole Hydrochloride"
+    },
+    {
+      "name": "Metformin Hydrochloride"
+    },
+    {
+      "name": "Ferrous Sulfate"
+    },
+    {
+      "name": "lpratropium"
+    },
+    {
+      "name": "Prednisone"
+    },
+    {
+      "name": "Levofloxacin"
+    },
+    {
+      "name": "Propranolol Hydrochloride"
+    },
+    {
+      "name": "Prednisolone"
+    },
+    {
+      "name": "Penicillin V"
+    },
+    {
+      "name": "Mometasone"
+    },
+    {
+      "name": "Glipizide"
+    },
+    {
+      "name": "Benazepril Hydrochloride"
+    },
+    {
+      "name": "Glimepiride"
+    },
+    {
+      "name": "Fenofibrate"
+    },
+    {
+      "name": "Spironolactone"
+    },
+    {
+      "name": "Ciprofloxacin"
+    },
+    {
+      "name": "Ibuprofen"
+    },
+    {
+      "name": "Alendronate Sodium"
+    },
+    {
+      "name": "Naproxen"
+    },
+    {
+      "name": "Thyroid"
+    },
+    {
+      "name": "Oxcarbazepine"
+    },
+    {
+      "name": "Gemfibrozil"
+    },
+    {
+      "name": "Meclizine Hydrochloride"
+    },
+    {
+      "name": "Memantine Hydrochloride"
+    },
+    {
+      "name": "Hydroxychloroquine Sulfate"
+    },
+    {
+      "name": "Cephalexin"
+    },
+    {
+      "name": "Latanoprost"
+    },
+    {
+      "name": "Triamcinolone"
+    },
+    {
+      "name": "Oxybutynin"
+    },
+    {
+      "name": "Amlodipine Besylate/Benazepril Hydrochloride"
+    },
+    {
+      "name": "Cholecalciferol/Alpha-Tocopherol"
+    },
+    {
+      "name": "Estrogens, Conjugated"
+    },
+    {
+      "name": "Losartan Potassium"
+    },
+    {
+      "name": "lsosorbide Mononitrate"
+    },
+    {
+      "name": "Nebivolol Hydrochloride"
+    },
+    {
+      "name": "Rivaroxaban"
+    },
+    {
+      "name": "Calcium"
+    },
+    {
+      "name": "Carisoprodol"
+    },
+    {
+      "name": "Desvenlafaxine"
+    },
+    {
+      "name": "Omega-3-acid Ethyl Esters"
+    },
+    {
+      "name": "Insulin Human"
+    },
+    {
+      "name": "Fluconazole"
+    },
+    {
+      "name": "Beclomethasone"
+    },
+    {
+      "name": "Budesonide"
+    },
+    {
+      "name": "Diphenhydramine Hydrochloride"
+    },
+    {
+      "name": "Travoprost"
+    },
+    {
+      "name": "HCTZ/Propranolol Hydrochloride"
+    },
+    {
+      "name": "Acetaminophen/Hydrocodone Bitartrate"
+    },
+    {
+      "name": "Glyburide"
+    },
+    {
+      "name": "Dabigatran Etexilate Mesylate"
+    },
+    {
+      "name": "Gabapentin"
+    },
+    {
+      "name": "Warfarin"
+    },
+    {
+      "name": "Azithromycin"
+    },
+    {
+      "name": "Phentermine"
+    },
+    {
+      "name": "Lithium"
+    },
+    {
+      "name": "Diclofenac"
+    },
+    {
+      "name": "Rosuvastatin Calcium"
+    },
+    {
+      "name": "Brimonidine Tartrate"
+    },
+    {
+      "name": "Insulin Glargine"
+    },
+    {
+      "name": "Clobetasol Propionate"
+    },
+    {
+      "name": "Levocetirizine Dihydrochloride"
+    },
+    {
+      "name": "Verapamil Hydrochloride"
+    },
+    {
+      "name": "Esomeprazole"
+    },
+    {
+      "name": "Clonidine"
+    },
+    {
+      "name": "Doxycycline"
+    },
+    {
+      "name": "Estradiol"
+    },
+    {
+      "name": "Mirtazapine"
+    },
+    {
+      "name": "Tiotropium"
+    },
+    {
+      "name": "Amoxicillin/Clavulanate Potassium"
+    }
+  ]
+}

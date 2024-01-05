@@ -1,0 +1,22 @@
+{
+  "name": "Paint Color",
+  "type": "items",
+  "total-weight": 15,
+  "rows": [
+    { "name": "Black" },
+    { "name": "Blue" },
+    { "name": "Brown" },
+    { "name": "Dark Blue" },
+    { "name": "Dark Green" },
+    { "name": "Gold" },
+    { "name": "Green" },
+    { "name": "Orange" },
+    { "name": "Pink" },
+    { "name": "Purple" },
+    { "name": "Red" },
+    { "name": "Safety Orange" },
+    { "name": "Silver" },
+    { "name": "White" },
+    { "name": "Yellow" }
+  ]
+}

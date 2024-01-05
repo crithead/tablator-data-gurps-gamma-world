@@ -1,0 +1,27 @@
+{
+  "name": "Improvised Weapons",
+  "type": "items",
+  "total-weight": 20,
+  "rows": [
+    { "name": "Baseball Bat" },
+    { "name": "Board with Nail" },
+    { "name": "Digging Pick" },
+    { "name": "Hammer" },
+    { "name": "Tire Iron" },
+    { "name": "Rebar, long" },
+    { "name": "Rebar, short" },
+    { "name": "Weighted Scarf" },
+    { "name": "Box Cutter" },
+    { "name": "Screwdriver" },
+    { "name": "Chain" },
+    { "name": "Rebar and Concrete" },
+    { "name": "Pitchfork" },
+    { "name": "Post-Hole Digger" },
+    { "name": "Golf Club" },
+    { "name": "Shovel" },
+    { "name": "Sledgehammer" },
+    { "name": "2x4 (wood post)" },
+    { "name": "Steel Pipe" },
+    { "name": "Long Steel Pipe" }
+  ]
+}

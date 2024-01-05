@@ -1,0 +1,370 @@
+{
+  "name": "Highway Encounters",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "name": "Lost Girl",
+      "quantity": "1d12",
+      "units": "years old"
+    },
+    {
+      "name": "Jetliner, large, crashed"
+    },
+    {
+      "name": "Cow"
+    },
+    {
+      "name": "Wild Boar",
+      "quantity": "1d8"
+    },
+    {
+      "name": "Wolves",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Performing Troupe",
+      "quantity": "1d8",
+      "units": "members"
+    },
+    {
+      "name": "Burning Semi"
+    },
+    {
+      "name": "Horse with a Saddle"
+    },
+    {
+      "name": "Boat, half buried"
+    },
+    {
+      "name": "Wild Boar",
+      "quantity": "1d20"
+    },
+    {
+      "name": "Tree house"
+    },
+    {
+      "name": "Traveling Traders",
+      "quantity": "1d4"
+    },
+    {
+      "name": "Slavers with 1d20 slaves ",
+      "quantity": "1d8",
+      "units": "slavers"
+    },
+    {
+      "name": "Lost Boy",
+      "quantity": "1d8",
+      "units": "years old"
+    },
+    {
+      "name": "Merchant Caravan",
+      "quantity": "1d20"
+    },
+    {
+      "name": "Traveling Band",
+      "quantity": "1d8"
+    },
+    {
+      "name": "Lost Girl, age",
+      "quantity": "1d8",
+      "units": "years old"
+    },
+    {
+      "name": "Refugee Convoy",
+      "quantity": "2d100"
+    },
+    {
+      "name": "Fleeing Family",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Horses",
+      "quantity": "1d6"
+    },
+    {
+      "name": "All Lanes Blocked with Wrecked Cars"
+    },
+    {
+      "name": "Traveling Traders",
+      "quantity": "1d8"
+    },
+    {
+      "name": "Overturned Car"
+    },
+    {
+      "name": "Merchant Caravan",
+      "quantity": "1d8"
+    },
+    {
+      "name": "Wounded Person"
+    },
+    {
+      "name": "Lone Warrior"
+    },
+    {
+      "name": "Feral Dogs",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Horses",
+      "quantity": "1d10"
+    },
+    {
+      "name": "Dead Bodies",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Dead Bodies",
+      "quantity": "1d8"
+    },
+    {
+      "name": "Man Digging Furiously"
+    },
+    {
+      "name": "Airplane, small, crashed"
+    },
+    {
+      "name": "Sniper"
+    },
+    {
+      "name": "Dead Bodies",
+      "quantity": "1d12"
+    },
+    {
+      "name": "Buckled Asphalt"
+    },
+    {
+      "name": "Merchant Caravan",
+      "quantity": "1d10"
+    },
+    {
+      "name": "Runaway Slave"
+    },
+    {
+      "name": "Slavers, with 1d12 slaves",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Pregnant Woman"
+    },
+    {
+      "name": "Motorcycle Gang",
+      "quantity": "1d12"
+    },
+    {
+      "name": "Car Gang",
+      "quantity": "1d20"
+    },
+    {
+      "name": "Small Settlement Built Out Old Cars"
+    },
+    {
+      "name": "Runaway Slaves",
+      "quantity": "1d10"
+    },
+    {
+      "name": "Horses",
+      "quantity": "1d12"
+    },
+    {
+      "name": "Motorcycle Gang",
+      "quantity": "1d10"
+    },
+    {
+      "name": "Lost Boy",
+      "quantity": "1d12",
+      "units": "years old"
+    },
+    {
+      "name": "Motorcycle Gang",
+      "quantity": "1d8"
+    },
+    {
+      "name": "Unconscious Person"
+    },
+    {
+      "name": "Walled Gas Station with Gun Turrets"
+    },
+    {
+      "name": "Overturned Semi"
+    },
+    {
+      "name": "Gang Attacking a Family"
+    },
+    {
+      "name": "Wild Boar",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Broken Down Car"
+    },
+    {
+      "name": "Dead Body"
+    },
+    {
+      "name": "Performing Troupe",
+      "quantity": "1d20",
+      "units": "members"
+    },
+    {
+      "name": "Submarine, half buried"
+    },
+    {
+      "name": "Ship, half buried"
+    },
+    {
+      "name": "Insane Man"
+    },
+    {
+      "name": "Motorcycle Gang",
+      "quantity": "1d20"
+    },
+    {
+      "name": "Turkeys",
+      "quantity": "1d20"
+    },
+    {
+      "name": "Group of Orphans",
+      "quantity": "1d12"
+    },
+    {
+      "name": "Woman with a Baby"
+    },
+    {
+      "name": "TravelingTrader"
+    },
+    {
+      "name": "Burning Car"
+    },
+    {
+      "name": "Dead Bodies",
+      "quantity": "1d10"
+    },
+    {
+      "name": "Car Gang",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Motorcycle Gang",
+      "quantity": "1d4"
+    },
+    {
+      "name": "Broken Down School Bus"
+    },
+    {
+      "name": "Car Gang",
+      "quantity": "1d10"
+    },
+    {
+      "name": "Tire Tracks Leading Off the Road"
+    },
+    {
+      "name": "Merchant Caravan",
+      "quantity": "1d4"
+    },
+    {
+      "name": "Camels",
+      "quantity": "1d8"
+    },
+    {
+      "name": "Minefield, mines",
+      "quantity": "1d20"
+    },
+    {
+      "name": "Car Gang",
+      "quantity": "1d8"
+    },
+    {
+      "name": "Briefcase Filled with Papers and Maps"
+    },
+    {
+      "name": "Feral Children",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Slavers, with 1d100 slaves",
+      "quantity": "1d20"
+    },
+    {
+      "name": "Merchant Caravan",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Burnt-out Pickup Truck"
+    },
+    {
+      "name": "Deer",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Slavers, with 1d20 slaves",
+      "quantity": "1d10 slavers"
+    },
+    {
+      "name": "Lost Dog"
+    },
+    {
+      "name": "Burning School Bus"
+    },
+    {
+      "name": "Merchant Caravan",
+      "quantity": "1d12"
+    },
+    {
+      "name": "All Lanes Blocked with Wrecked Cars",
+      "quantity": "old"
+    },
+    {
+      "name": "Traveling Doctor"
+    },
+    {
+      "name": "Burnt-out Semi Truck"
+    },
+    {
+      "name": "Band ofThieves",
+      "quantity": "1d12"
+    },
+    {
+      "name": "Refugee Convoy",
+      "quantity": "4d20"
+    },
+    {
+      "name": "Gang Attacking a Refugee Convoy"
+    },
+    {
+      "name": "Man with a Baby"
+    },
+    {
+      "name": "A Crater in the Road"
+    },
+    {
+      "name": "Refugee Convoy",
+      "quantity": "2d20"
+    },
+    {
+      "name": "Feral Cats",
+      "quantity": "1d4"
+    },
+    {
+      "name": "Car, half buried"
+    },
+    {
+      "name": "Burnt-out Car"
+    },
+    {
+      "name": "Car Gang",
+      "quantity": "1d12"
+    },
+    {
+      "name": "Feral Dogs, rabid",
+      "quantity": "1d8"
+    },
+    {
+      "name": "Fallen Electric Pole Blocks Road"
+    },
+    {
+      "name": "Bear, rabid"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "name": "Books",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "name": "Brave New World by Aldous Huxley"
+    },
+    {
+      "name": "The Maltese Falcon by Dashiell Hammett"
+    },
+    {
+      "name": "To Kill a Mockingbird by Harper Lee"
+    },
+    {
+      "name": "Highway Holocaust by Joe Dever"
+    },
+    {
+      "name": "The Rise ofTheodore Roosevelt by Edmund Morris"
+    },
+    {
+      "name": "Robinson Crusoe by Daniel Dafoe"
+    },
+    {
+      "name": "The Frontier in American History by Frederick Jackson Turner"
+    },
+    {
+      "name": "The Long Goodbye by Raymond Chandler"
+    },
+    {
+      "name": "Ten Philosophical Mistakes by Mortimer J. Adler"
+    },
+    {
+      "name": "The Iliad and the Odyssey of Homer"
+    },
+    {
+      "name": "The Chessmen of Mars by Edgar Rice Burroughs"
+    },
+    {
+      "name": "Undaunted Courage by Stephen Ambrose"
+    },
+    {
+      "name": "Steppenwolf by Herman Hesse"
+    },
+    {
+      "name": "Argonautica by Apollonius of Rhodes"
+    },
+    {
+      "name": "The Republic by Plato"
+    },
+    {
+      "name": "The Prince by Niccolo Machiavelli"
+    },
+    {
+      "name": "Slaughterhouse-Five by Kurt Vonnegut"
+    },
+    {
+      "name": "Confederacy of Dunces by John Kennedy Toole"
+    },
+    {
+      "name": "White Noise by Don Delillo"
+    },
+    {
+      "name": "Malcolm X: The Autobiography"
+    },
+    {
+      "name": "A Separate Peace by John Knowles"
+    },
+    {
+      "name": "The Hobbit by JRRTolkien"
+    },
+    {
+      "name": "Call of the Wild by Jack London"
+    },
+    {
+      "name": "The Killer Angels by Michael Shaara"
+    },
+    {
+      "name": "The Gallic War by Julius Caesar"
+    },
+    {
+      "name": "Zen and the Art of Motorcycle Maintenance by Robert Pirsig"
+    },
+    {
+      "name": "Adventures of Huckleberry Finn by Mark Twain"
+    },
+    {
+      "name": "On the Road by Jack Kerouac"
+    },
+    {
+      "name": "The Strenuous Life by Theodore Roosevelt"
+    },
+    {
+      "name": "The Federalist Papers by Alexander Hamilton, John Jay, and James Madison"
+    },
+    {
+      "name": "The Grapes of Wrath by John Steinbeck"
+    },
+    {
+      "name": "Self Reliance by Ralph Waldo Emerson"
+    },
+    {
+      "name": "Tarzan of the Apes by Edgar Rice Burroughs"
+    },
+    {
+      "name": "The Idiot by Fyodor Dostoevsky"
+    },
+    {
+      "name": "The Pearl by John Steinbeck"
+    },
+    {
+      "name": "The Naked and The Dead by Norman Mailer"
+    },
+    {
+      "name": "Lord of the Flies by William Golding"
+    },
+    {
+      "name": "The Narrative of the Life of Frederick Douglass by Frederick Douglass"
+    },
+    {
+      "name": "Lives of the Noble Greeks and Romans by Plutarch"
+    },
+    {
+      "name": "The Histories by Herodotus"
+    },
+    {
+      "name": "The Divine Comedy by Dante Alighieri"
+    },
+    {
+      "name": "Theodore Rex by Edmund Morris"
+    },
+    {
+      "name": "Ulysses by James Joyce"
+    },
+    {
+      "name": "Animal Farm by George Orwell"
+    },
+    {
+      "name": "The Art of Warfare by Sun Tzu"
+    },
+    {
+      "name": "Catch-22 by Joseph Heller"
+    },
+    {
+      "name": "Blood Meridian by Cormac McCarthy"
+    },
+    {
+      "name": "Hamlet by William Shakespeare"
+    },
+    {
+      "name": "The Great Railway Bazaar by Paul Theroux"
+    },
+    {
+      "name": "Leviathan by Thomas Hobbes"
+    },
+    {
+      "name": "The Bible (King James Version)"
+    },
+    {
+      "name": "The Autobiography of Benjamin Franklin"
+    },
+    {
+      "name": "East of Eden by John Steinbeck"
+    },
+    {
+      "name": "The Stranger by Albert Camus"
+    },
+    {
+      "name": "Don Quixote by Miguel de Cervantes Saavedra"
+    },
+    {
+      "name": "Paradise Lost by John Milton"
+    },
+    {
+      "name": "The Aeneid byVirgil"
+    },
+    {
+      "name": "Into the Wild by Jon Krakauer"
+    },
+    {
+      "name": "The Picture of Dorian Gray by Oscar Wilde"
+    },
+    {
+      "name": "The Count of Monte Cristo by Alexandre Dumas"
+    },
+    {
+      "name": "The Red Badge of Courage by Stephen Crane"
+    },
+    {
+      "name": "The Power Broker by Robert Caro"
+    },
+    {
+      "name": "Swiss Family Robinson by Johann David Wyss"
+    },
+    {
+      "name": "Frankenstein by Mary Wollstonecraft Shelly"
+    },
+    {
+      "name": "Moby Dick by Herman Melville"
+    },
+    {
+      "name": "How To Win Friends And Influence People by Dale Carnegie"
+    },
+    {
+      "name": "The Island of Dr. Moreau by H.G. Wells"
+    },
+    {
+      "name": "King Solomon's Mines by H. Rider Haggard"
+    },
+    {
+      "name": "Treasure Island by Robert Louis Stevenson"
+    },
+    {
+      "name": "The Lord of the Rings by JRR Tolkien"
+    },
+    {
+      "name": "The Metamorphosis by Franz Kafka"
+    },
+    {
+      "name": "Fear and Trembling by Soren Kierkegaard"
+    },
+    {
+      "name": "Beyond Good and Evil by Freidrich Nietzsche"
+    },
+    {
+      "name": "From Here to Eternity by James Jones"
+    },
+    {
+      "name": "Poetics by Aristotle"
+    },
+    {
+      "name": "For Whom the Bell Tolls by Ernest Hemingway"
+    },
+    {
+      "name": "Brothers Karamazov by Fyodor Dostoevsky"
+    },
+    {
+      "name": "Walden by Henry David Thoreau"
+    },
+    {
+      "name": "Lonesome Dove by Larry McMurtry"
+    },
+    {
+      "name": "The Politics by Aristotle"
+    },
+    {
+      "name": "The Lost World by Authur Conan Doyle"
+    },
+    {
+      "name": "The Boys of Summer by Roger Kahn"
+    },
+    {
+      "name": "Crime And Punishment by Fyodor Dostoevsky"
+    },
+    {
+      "name": "Tropic of Cancer by Henry Miller"
+    },
+    {
+      "name": "The Great Gatsby by F. Scott Fitzgerald"
+    },
+    {
+      "name": "The Wealth of Nations by Adam Smith"
+    },
+    {
+      "name": "1984 by George Orwell"
+    },
+    {
+      "name": "Confessions by Augustine"
+    },
+    {
+      "name": "The Rough Riders by Theodore Roosevelt"
+    },
+    {
+      "name": "Foucault's Pendulum by Umberto Eco"
+    },
+    {
+      "name": "The Catcher and the Rye by J.D. Salinger"
+    },
+    {
+      "name": "Cyrano de Bergerac by Edmond Rostand"
+    },
+    {
+      "name": "Atlas Shrugged by Ayn Rand"
+    },
+    {
+      "name": "All Quiet on The Western Front by Erich Maria Remarque"
+    },
+    {
+      "name": "The Fatal Shore by Robert Hughes"
+    },
+    {
+      "name": "Truman by David McCullough"
+    },
+    {
+      "name": "My Early Life by Winston Churchill"
+    },
+    {
+      "name": "A Farewell To Arms by Ernest Hemingway"
+    },
+    {
+      "name": "The Universe Next Door by James Sire"
+    },
+    {
+      "name": "The Thin Red Line by James Jones"
+    }
+  ]
+}

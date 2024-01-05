@@ -1,0 +1,338 @@
+{
+  "name": "Clothing",
+  "type": "items",
+  "total-weight": 119,
+  "rows": [
+    {
+      "name": "Artic Clothes"
+    },
+    {
+      "name": "Ascot"
+    },
+    {
+      "name": "Aviator goggles"
+    },
+    {
+      "name": "Ball gown"
+    },
+    {
+      "name": "Bandana",
+      "weight": 6,
+      "subtable": "bandana-color"
+    },
+    {
+      "name": "Baseball cap",
+      "weight": 2,
+      "subtable": "baseball-team"
+    },
+    {
+      "name": "Basketball shorts"
+    },
+    {
+      "name": "Bell bottom jeans"
+    },
+    {
+      "name": "Bikini"
+    },
+    {
+      "name": "Blue jeans"
+    },
+    {
+      "name": "Blue jeans (holes in the knees)"
+    },
+    {
+      "name": "Bomber jacket"
+    },
+    {
+      "name": "Boots"
+    },
+    {
+      "name": "Bowler hat"
+    },
+    {
+      "name": "Bullet bra"
+    },
+    {
+      "name": "Camo fatigues"
+    },
+    {
+      "name": "Camo pants"
+    },
+    {
+      "name": "Camo T-shirt"
+    },
+    {
+      "name": "Canvas work gloves"
+    },
+    {
+      "name": "Cargo pants"
+    },
+    {
+      "name": "Cleats"
+    },
+    {
+      "name": "Cloth palm gloves"
+    },
+    {
+      "name": "Coveralls"
+    },
+    {
+      "name": "Cowboy boots"
+    },
+    {
+      "name": "Cowboy hat"
+    },
+    {
+      "name": "Cowboy shirt"
+    },
+    {
+      "name": "Dress shirt (short sleeved)"
+    },
+    {
+      "name": "Duster"
+    },
+    {
+      "name": "Earmuffs"
+    },
+    {
+      "name": "Evening gown"
+    },
+    {
+      "name": "Fanny pack"
+    },
+    {
+      "name": "Fedora"
+    },
+    {
+      "name": "Fez"
+    },
+    {
+      "name": "Flannel shirt (torn)"
+    },
+    {
+      "name": "Flip flops"
+    },
+    {
+      "name": "Formal Wear"
+    },
+    {
+      "name": "Ghillie Suite"
+    },
+    {
+      "name": "Girdle"
+    },
+    {
+      "name": "Hat"
+    },
+    {
+      "name": "High heel shoes"
+    },
+    {
+      "name": "High-Fasion Attire"
+    },
+    {
+      "name": "Hiking boots"
+    },
+    {
+      "name": "Hip waders"
+    },
+    {
+      "name": "Hoodie"
+    },
+    {
+      "name": "Imprint Circuits"
+    },
+    {
+      "name": "Jean jacket"
+    },
+    {
+      "name": "Jungle khaki shorts"
+    },
+    {
+      "name": "Khaki shorts"
+    },
+    {
+      "name": "Leather belt"
+    },
+    {
+      "name": "Leather dog collar"
+    },
+    {
+      "name": "Leather gloves"
+    },
+    {
+      "name": "Leather jacket"
+    },
+    {
+      "name": "Leather pants"
+    },
+    {
+      "name": "Leather vest"
+    },
+    {
+      "name": "Leatherbackpack"
+    },
+    {
+      "name": "Lingerie"
+    },
+    {
+      "name": "Long Coat"
+    },
+    {
+      "name": "Long underwear"
+    },
+    {
+      "name": "Mirrored Sunglasses"
+    },
+    {
+      "name": "Nylon backpack"
+    },
+    {
+      "name": "Nylon gloves"
+    },
+    {
+      "name": "Overalls"
+    },
+    {
+      "name": "Pantyhose"
+    },
+    {
+      "name": "Parka"
+    },
+    {
+      "name": "Photog vest"
+    },
+    {
+      "name": "Poncho"
+    },
+    {
+      "name": "Rubber boots"
+    },
+    {
+      "name": "Running shoes"
+    },
+    {
+      "name": "Sandals"
+    },
+    {
+      "name": "Scarf"
+    },
+    {
+      "name": "Silk pajamas"
+    },
+    {
+      "name": "Ski mask"
+    },
+    {
+      "name": "Slacks"
+    },
+    {
+      "name": "Smoking jacket"
+    },
+    {
+      "name": "Sneakers"
+    },
+    {
+      "name": "Snow boots"
+    },
+    {
+      "name": "Snowsuit"
+    },
+    {
+      "name": "Socks"
+    },
+    {
+      "name": "Sombrero"
+    },
+    {
+      "name": "Star Trek uniform (TOS)"
+    },
+    {
+      "name": "Steampunk goggles"
+    },
+    {
+      "name": "Straw hat"
+    },
+    {
+      "name": "Suit (70's, blue)"
+    },
+    {
+      "name": "Suitespray"
+    },
+    {
+      "name": "Summer Clothes"
+    },
+    {
+      "name": "Sunglasses"
+    },
+    {
+      "name": "Sunglasses"
+    },
+    {
+      "name": "Suspenders"
+    },
+    {
+      "name": "Sweat pants"
+    },
+    {
+      "name": "Sweater"
+    },
+    {
+      "name": "Sweatshirt"
+    },
+    {
+      "name": "Swimwear-biomimetic"
+    },
+    {
+      "name": "T-shirt",
+      "weight": 5,
+      "subtable": "tshirt-type"
+    },
+    {
+      "name": "Tennis shoes",
+      "weight": 2
+    },
+    {
+      "name": "Tie (red and white stripes)"
+    },
+    {
+      "name": "Turtleneck shirt"
+    },
+    {
+      "name": "Tuxedo"
+    },
+    {
+      "name": "Underwear, men's"
+    },
+    {
+      "name": "Underwear, women's"
+    },
+    {
+      "name": "Varicloth"
+    },
+    {
+      "name": "Water shoes"
+    },
+    {
+      "name": "Wife-beater shirt"
+    },
+    {
+      "name": "Wig, black"
+    },
+    {
+      "name": "Wig, blonde"
+    },
+    {
+      "name": "Winter clothes"
+    },
+    {
+      "name": "Winter gloves"
+    },
+    {
+      "name": "Wool socks"
+    },
+    {
+      "name": "Work boots"
+    }
+  ]
+}

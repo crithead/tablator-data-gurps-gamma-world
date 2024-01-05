@@ -1,0 +1,748 @@
+{
+  "name": "Office Items",
+  "type": "items",
+  "total-weight": 199,
+  "rows": [
+    {
+      "name": "3-ring binders, 2\"",
+      "quantity": "1d3+1"
+    },
+    {
+      "name": "3.5\" high-density floppy disks",
+      "quantity": "5d6"
+    },
+    {
+      "name": "4-ring binders",
+      "quantity": "1d2+1"
+    },
+    {
+      "name": "Air freshener",
+      "quantity": "1",
+      "units": "can"
+    },
+    {
+      "name": "Ballpoint pens",
+      "quantity": "2d10"
+    },
+    {
+      "name": "Batteries, AA",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Batteries, AAA",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Binder clips, small",
+      "quantity": "3d6"
+    },
+    {
+      "name": "Binder pockets",
+      "quantity": "6d10"
+    },
+    {
+      "name": "Binder tabs",
+      "quantity": "5d10"
+    },
+    {
+      "name": "Black all-purpose marker"
+    },
+    {
+      "name": "Bookcase"
+    },
+    {
+      "name": "Bookends, metal"
+    },
+    {
+      "name": "Bookmark sticky flags",
+      "quantity": "1d6x12"
+    },
+    {
+      "name": "Bookmarks",
+      "quantity": "1d4"
+    },
+    {
+      "name": "Bottled water",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Box cutter, new blade"
+    },
+    {
+      "name": "Broom"
+    },
+    {
+      "name": "Bubble wrap",
+      "quantity": "1d3+1",
+      "units": "rolls"
+    },
+    {
+      "name": "Bulldog clamps",
+      "quantity": "3d10"
+    },
+    {
+      "name": "Bulletin board"
+    },
+    {
+      "name": "Business cards",
+      "quantity": "1d6x100"
+    },
+    {
+      "name": "Calendar"
+    },
+    {
+      "name": "Carbon paper",
+      "quantity": "10d10",
+      "units": "sheets"
+    },
+    {
+      "name": "Cardboard boxes, 12\"",
+      "quantity": "3d8"
+    },
+    {
+      "name": "Cardboard file boxes",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Catalog envelopes",
+      "quantity": "2d2"
+    },
+    {
+      "name": "Blank CDs",
+      "quantity": "3d10"
+    },
+    {
+      "name": "Chairs",
+      "quantity": "3d10"
+    },
+    {
+      "name": "Clear binder document holders",
+      "quantity": "4d10"
+    },
+    {
+      "name": "Clear cellophane tape dispenser"
+    },
+    {
+      "name": "Clear cellophane tape",
+      "quantity": "1d3",
+      "units": "rolls"
+    },
+    {
+      "name": "Coffee",
+      "quantity": "2",
+      "units": "cans"
+    },
+    {
+      "name": "Coffee creamer",
+      "quantity": "8d6",
+      "units": "packets"
+    },
+    {
+      "name": "Coffee mug"
+    },
+    {
+      "name": "Coffee mugs",
+      "quantity": "8"
+    },
+    {
+      "name": "Coffeemaker"
+    },
+    {
+      "name": "Color card stock",
+      "quantity": "2d3",
+      "units": "sheets"
+    },
+    {
+      "name": "Color coding labels",
+      "quantity": "10d10"
+    },
+    {
+      "name": "Colored paper",
+      "quantity": "45",
+      "units": "sheets"
+    },
+    {
+      "name": "Compass"
+    },
+    {
+      "name": "Composition notebooks",
+      "quantity": "2d3"
+    },
+    {
+      "name": "Computer"
+    },
+    {
+      "name": "Computer mouse"
+    },
+    {
+      "name": "Computer screen cleaner",
+      "units": "bottle"
+    },
+    {
+      "name": "Copy paper",
+      "quantity": "2",
+      "units": "reams"
+    },
+    {
+      "name": "Correction fluid",
+      "weight": 2,
+      "quantity": "2d3",
+      "units": "bottles"
+    },
+    {
+      "name": "Digital camera"
+    },
+    {
+      "name": "Dish rack"
+    },
+    {
+      "name": "Dish soap, \u00bd bottle"
+    },
+    {
+      "name": "Dish sponge"
+    },
+    {
+      "name": "Disinfectant wipes",
+      "quantity": "3d10"
+    },
+    {
+      "name": "Disk mailers",
+      "quantity": "1d20+10"
+    },
+    {
+      "name": "Document holder"
+    },
+    {
+      "name": "Drinking glasses",
+      "quantity": "4d6"
+    },
+    {
+      "name": "Dry/Wet erase board"
+    },
+    {
+      "name": "Dry/Wet erase markers",
+      "quantity": "2d4"
+    },
+    {
+      "name": "Dry/Wet erase spray",
+      "quantity": "1d2",
+      "units": "bottle"
+    },
+    {
+      "name": "Duct tape \u00bd roll"
+    },
+    {
+      "name": "Dustpan"
+    },
+    {
+      "name": "Envelope sealer"
+    },
+    {
+      "name": "Envelopes #10",
+      "quantity": "3d6x10"
+    },
+    {
+      "name": "Erasers",
+      "quantity": "3d6+6"
+    },
+    {
+      "name": "Extension cords 6'",
+      "quantity": "3d10"
+    },
+    {
+      "name": "Facial tissues, full box"
+    },
+    {
+      "name": "Fasteners",
+      "quantity": "10d10"
+    },
+    {
+      "name": "Fax machine"
+    },
+    {
+      "name": "Fax paper",
+      "units": "ream"
+    },
+    {
+      "name": "File labels",
+      "quantity": "10d10"
+    },
+    {
+      "name": "Filing cabinet"
+    },
+    {
+      "name": "Fire extinguisher"
+    },
+    {
+      "name": "First-aid kit"
+    },
+    {
+      "name": "Flashlight"
+    },
+    {
+      "name": "Folder tabs",
+      "quantity": "2d6x10"
+    },
+    {
+      "name": "Garbage bags",
+      "quantity": "2d10"
+    },
+    {
+      "name": "Glue sticks",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Graph paper",
+      "quantity": "8d10",
+      "units": "sheets"
+    },
+    {
+      "name": "Greeting cards and envelopes",
+      "quantity": "4d6"
+    },
+    {
+      "name": "Handsoap, \u00bd bottle"
+    },
+    {
+      "name": "Hanging file folders",
+      "quantity": "3d20"
+    },
+    {
+      "name": "Hanging hooks",
+      "quantity": "10d10"
+    },
+    {
+      "name": "Headset"
+    },
+    {
+      "name": "Heavy-duty card stock",
+      "quantity": "1d4x12",
+      "units": "sheets"
+    },
+    {
+      "name": "Highlighters",
+      "weight": 2,
+      "quantity": "2d10"
+    },
+    {
+      "name": "Index dividers",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Ink for stamp pads",
+      "quantity": "2d3",
+      "units": "bottles"
+    },
+    {
+      "name": "Keyboard"
+    },
+    {
+      "name": "Label maker"
+    },
+    {
+      "name": "Labels",
+      "quantity": "3d6x12"
+    },
+    {
+      "name": "Laminating machine"
+    },
+    {
+      "name": "Lamp"
+    },
+    {
+      "name": "Laser printer paper",
+      "quantity": "2d4",
+      "units": "reams"
+    },
+    {
+      "name": "Legal envelopes",
+      "quantity": "5d10"
+    },
+    {
+      "name": "Legalpads, 50 sheets",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Letter opener"
+    },
+    {
+      "name": "Letterhead stationery",
+      "quantity": "10d10",
+      "units": "sheets"
+    },
+    {
+      "name": "lnkpad"
+    },
+    {
+      "name": "Magazine holders",
+      "quantity": "2"
+    },
+    {
+      "name": "Magnifying glass"
+    },
+    {
+      "name": "Mailing labels",
+      "quantity": "2d100"
+    },
+    {
+      "name": "Manila file folders",
+      "quantity": "10d10"
+    },
+    {
+      "name": "Map pins",
+      "quantity": "5d10"
+    },
+    {
+      "name": "Markers",
+      "quantity": "2d8"
+    },
+    {
+      "name": "Masking tape",
+      "quantity": "3d6",
+      "units": "rolls"
+    },
+    {
+      "name": "Mechanical pencil lead refills",
+      "quantity": "3d10"
+    },
+    {
+      "name": "Mechanical pencils",
+      "quantity": "3d6"
+    },
+    {
+      "name": "Microwave oven"
+    },
+    {
+      "name": "Monitor"
+    },
+    {
+      "name": "Name badges",
+      "quantity": "2d6x4"
+    },
+    {
+      "name": "Napkins",
+      "quantity": "2d100+100"
+    },
+    {
+      "name": "No. 2 pencils",
+      "weight": 3,
+      "quantity": "4d100"
+    },
+    {
+      "name": "Open/Close sign"
+    },
+    {
+      "name": "Packaging peanuts",
+      "quantity": "6d100"
+    },
+    {
+      "name": "Packing tape",
+      "quantity": "2d6",
+      "units": "rolls"
+    },
+    {
+      "name": "Padded envelopes",
+      "quantity": "5d10"
+    },
+    {
+      "name": "Padded legal envelope mailers",
+      "quantity": "3d10"
+    },
+    {
+      "name": "Padded mailers",
+      "quantity": "3d20"
+    },
+    {
+      "name": "Paper plates",
+      "quantity": "10d20"
+    },
+    {
+      "name": "Paper towels",
+      "quantity": "21d4+1",
+      "units": "rolls"
+    },
+    {
+      "name": "Paperclips",
+      "quantity": "5d100"
+    },
+    {
+      "name": "Paperclips",
+      "quantity": "10d10"
+    },
+    {
+      "name": "Paperweight"
+    },
+    {
+      "name": "Pen holder"
+    },
+    {
+      "name": "Pencil sharpener"
+    },
+    {
+      "name": "Pens",
+      "quantity": "6d10"
+    },
+    {
+      "name": "Permanent markers",
+      "quantity": "3d6"
+    },
+    {
+      "name": "Phone message pads",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Photocopier"
+    },
+    {
+      "name": "Plastic In/Outbox"
+    },
+    {
+      "name": "Plastic spoons/forks/knives",
+      "quantity": "2d100"
+    },
+    {
+      "name": "Pocket folders",
+      "quantity": "3d10"
+    },
+    {
+      "name": "Pocket notebook",
+      "quantity": "3"
+    },
+    {
+      "name": "Postage meter"
+    },
+    {
+      "name": "Postage stamps",
+      "quantity": "10d10"
+    },
+    {
+      "name": "Pressured air",
+      "weight": 2,
+      "quantity": "1d20+10",
+      "units": "uses"
+    },
+    {
+      "name": "Price tags",
+      "quantity": "10d10"
+    },
+    {
+      "name": "Printer"
+    },
+    {
+      "name": "Printer paper",
+      "quantity": "2d5",
+      "units": "reams"
+    },
+    {
+      "name": "Protractor"
+    },
+    {
+      "name": "Pushpins",
+      "quantity": "2d100"
+    },
+    {
+      "name": "Recycling bin"
+    },
+    {
+      "name": "Refills for a planner",
+      "quantity": "4d10+10",
+      "units": "sheets"
+    },
+    {
+      "name": "Rubber bands,3\"",
+      "quantity": "10d10"
+    },
+    {
+      "name": "Rubber cement"
+    },
+    {
+      "name": "Rubber stamps",
+      "quantity": "4"
+    },
+    {
+      "name": "Rubberbands",
+      "quantity": "6d10"
+    },
+    {
+      "name": "Ruler"
+    },
+    {
+      "name": "Safe, locked"
+    },
+    {
+      "name": "Scanner"
+    },
+    {
+      "name": "Scheduling corkboard"
+    },
+    {
+      "name": "Scissors"
+    },
+    {
+      "name": "Sealing tape",
+      "quantity": "2d6",
+      "units": "rolls"
+    },
+    {
+      "name": "Shipping labels",
+      "quantity": "10d10"
+    },
+    {
+      "name": "Shipping paper",
+      "quantity": "10d10",
+      "units": "sheets"
+    },
+    {
+      "name": "Shredder"
+    },
+    {
+      "name": "Shredder oil",
+      "quantity": "2",
+      "units": "bottles"
+    },
+    {
+      "name": "Single hole puncher"
+    },
+    {
+      "name": "Small broom/dustpan"
+    },
+    {
+      "name": "Speakerphone"
+    },
+    {
+      "name": "Spiral notebooks",
+      "quantity": "2d10"
+    },
+    {
+      "name": "Spiral-bound notebooks",
+      "quantity": "3d6+5"
+    },
+    {
+      "name": "Stamp pads",
+      "quantity": "2d6"
+    },
+    {
+      "name": "Stapler"
+    },
+    {
+      "name": "Stapler remover"
+    },
+    {
+      "name": "Staples",
+      "quantity": "2d10x12"
+    },
+    {
+      "name": "Steno pads",
+      "quantity": "2d4"
+    },
+    {
+      "name": "Sticky notes, 30 sheet pad",
+      "quantity": "1d4"
+    },
+    {
+      "name": "Sticky notes, 50 sheet pad",
+      "quantity": "3d4"
+    },
+    {
+      "name": "Sticky notes, 60 sheet pad"
+    },
+    {
+      "name": "Sugar",
+      "quantity": "10d10",
+      "units": "packets"
+    },
+    {
+      "name": "Surge protectors",
+      "quantity": "2d4"
+    },
+    {
+      "name": "T-square"
+    },
+    {
+      "name": "Tabs",
+      "quantity": "2d4x12"
+    },
+    {
+      "name": "Tacky wall mount gum",
+      "quantity": "2d10",
+      "units": "sticks"
+    },
+    {
+      "name": "Tea",
+      "quantity": "3d6",
+      "units": "bags"
+    },
+    {
+      "name": "Telephone"
+    },
+    {
+      "name": "Three-hole puncher"
+    },
+    {
+      "name": "Thumbtacks",
+      "quantity": "10d10"
+    },
+    {
+      "name": "Time cards",
+      "quantity": "3d6+10"
+    },
+    {
+      "name": "Toilet tissue",
+      "quantity": "2d3",
+      "units": "rolls"
+    },
+    {
+      "name": "Toilet tissue",
+      "quantity": "8",
+      "units": "rolls"
+    },
+    {
+      "name": "Toner cartridge"
+    },
+    {
+      "name": "Tracing paper",
+      "quantity": "3d6",
+      "units": "sheets"
+    },
+    {
+      "name": "Twine",
+      "quantity": "2d8",
+      "units": "feet"
+    },
+    {
+      "name": "Vacuum cleaner"
+    },
+    {
+      "name": "Wastebasket"
+    },
+    {
+      "name": "White glue",
+      "weight": 2,
+      "quantity": "1d3+1",
+      "units": "bottles"
+    },
+    {
+      "name": "Window cleaner"
+    },
+    {
+      "name": "Window envelopes #10",
+      "quantity": "10d20"
+    },
+    {
+      "name": "Wooden shelves",
+      "quantity": "2"
+    },
+    {
+      "name": "Wrapping paper",
+      "units": "roll"
+    },
+    {
+      "name": "Writing pads",
+      "quantity": "3d8"
+    },
+    {
+      "name": "Zip drives",
+      "quantity": "2"
+    }
+  ]
+}

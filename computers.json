@@ -1,0 +1,42 @@
+{
+  "name": "Ultra-Tech Computers",
+  "type": "items",
+  "total-weight": 7,
+  "rows": [
+    {
+      "name": "Tiny",
+      "quantity": "0.05",
+      "units": "lbs"
+    },
+    {
+      "name": "Small",
+      "quantity": "0.5",
+      "units": "lbs"
+    },
+    {
+      "name": "Personal",
+      "quantity": "5",
+      "units": "lbs"
+    },
+    {
+      "name": "Microframe",
+      "quantity": "40",
+      "units": "lbs"
+    },
+    {
+      "name": "Mainframe",
+      "quantity": "400",
+      "units": "lbs"
+    },
+    {
+      "name": "Macroframe",
+      "quantity": "4,000",
+      "units": "lbs"
+    },
+    {
+      "name": "Megacomputer",
+      "quantity": "40,000",
+      "units": "lbs"
+    }
+  ]
+}

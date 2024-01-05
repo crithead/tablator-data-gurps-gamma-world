@@ -1,0 +1,255 @@
+{
+  "name": "Alcoholic Beverage Table",
+  "type": "items",
+  "total-weight": 93,
+  "rows": [
+    {
+      "name": "Ale",
+      "weight": 4,
+      "quantity": "1d6",
+      "units": "bottles"
+    },
+    {
+      "name": "Beer",
+      "weight": 6,
+      "quantity": "2d6",
+      "units": "bottles"
+    },
+    {
+      "name": "Beer",
+      "weight": 6,
+      "quantity": "2d6",
+      "units": "cans"
+    },
+    {
+      "name": "Beer (\u00bd bottle)"
+    },
+    {
+      "name": "Bourbon",
+      "weight": 3,
+      "quantity": "1d6",
+      "units": "bottles"
+    },
+    {
+      "name": "Bourbon (\u00bd bottle)",
+      "weight": 2
+    },
+    {
+      "name": "Brandy",
+      "weight": 2,
+      "quantity": "1d2+1",
+      "units": "bottles"
+    },
+    {
+      "name": "Brandy",
+      "units": "bottle"
+    },
+    {
+      "name": "Brandy (\u00bd bottle)"
+    },
+    {
+      "name": "Champagne",
+      "weight": 4,
+      "quantity": "1d6",
+      "units": "bottles"
+    },
+    {
+      "name": "Champagne (\u00bd bottle)"
+    },
+    {
+      "name": "Cider",
+      "weight": 2,
+      "quantity": "1d3",
+      "units": "bottles"
+    },
+    {
+      "name": "Cider (\u00bd bottle)"
+    },
+    {
+      "name": "Gin",
+      "weight": 3,
+      "quantity": "1d4",
+      "units": "bottles"
+    },
+    {
+      "name": "Gin (\u00bd bottle)"
+    },
+    {
+      "name": "Ginger ale (1 bottle)"
+    },
+    {
+      "name": "Ginger ale",
+      "quantity": "1d3+1",
+      "units": "bottles"
+    },
+    {
+      "name": "Ginger beer (1 bottle)"
+    },
+    {
+      "name": "Ginger beer",
+      "quantity": "1d6+1",
+      "units": "bottles"
+    },
+    {
+      "name": "Ginger wine (1 bottle)"
+    },
+    {
+      "name": "Ginger wine (2 bottles)"
+    },
+    {
+      "name": "Irish whiskey (\u00bd bottle)"
+    },
+    {
+      "name": "Irish whiskey (1 bottle)"
+    },
+    {
+      "name": "Irish whiskey",
+      "weight": 2,
+      "quantity": "1d6+1",
+      "units": "bottles"
+    },
+    {
+      "name": "Lager (\u00bd bottle)"
+    },
+    {
+      "name": "Lager (1 bottle)"
+    },
+    {
+      "name": "Lager",
+      "weight": 2,
+      "quantity": "1d6+1",
+      "units": "bottles"
+    },
+    {
+      "name": "Moonshine (\u00bd bottle)"
+    },
+    {
+      "name": "Moonshine (1 bottle)"
+    },
+    {
+      "name": "Moonshine (1 gallon)"
+    },
+    {
+      "name": "Port (\u00bd bottle)"
+    },
+    {
+      "name": "Port (1 bottle)"
+    },
+    {
+      "name": "Port",
+      "quantity": "1d4+1",
+      "units": "bottles"
+    },
+    {
+      "name": "Porter (\u00bd bottle)"
+    },
+    {
+      "name": "Porter (1 bottle)"
+    },
+    {
+      "name": "Porter",
+      "weight": 2,
+      "quantity": "1d4+1",
+      "units": "bottles"
+    },
+    {
+      "name": "Red wine (\u00bd bottle)"
+    },
+    {
+      "name": "Red wine (1 bottle)"
+    },
+    {
+      "name": "Red wine (2 bottles)"
+    },
+    {
+      "name": "Rose wine (1 bottle)"
+    },
+    {
+      "name": "Rose wine",
+      "weight": 2,
+      "quantity": "1d3+1",
+      "units": "bottles"
+    },
+    {
+      "name": "Rum (\u00bd bottle)"
+    },
+    {
+      "name": "Rum (1 bottle)"
+    },
+    {
+      "name": "Rum",
+      "weight": 2,
+      "quantity": "1d4+1",
+      "units": "bottles"
+    },
+    {
+      "name": "Rye whiskey (\u00bd bottle)"
+    },
+    {
+      "name": "Rye whiskey (1 bottle)"
+    },
+    {
+      "name": "Rye whiskey",
+      "weight": 2,
+      "quantity": "1d3+1",
+      "units": "bottles"
+    },
+    {
+      "name": "Scotch (\u00bd bottle)"
+    },
+    {
+      "name": "Scotch (1 bottle)"
+    },
+    {
+      "name": "Scotch",
+      "quantity": "1d4+1",
+      "units": "bottles"
+    },
+    {
+      "name": "Sherry (\u00bd bottle)"
+    },
+    {
+      "name": "Sherry (1 bottle)"
+    },
+    {
+      "name": "Sherry",
+      "quantity": "1d3+1",
+      "units": "bottles"
+    },
+    {
+      "name": "Stout (\u00bd bottle)"
+    },
+    {
+      "name": "Stout (1 bottle)"
+    },
+    {
+      "name": "Stout",
+      "quantity": "1d4+1",
+      "units": "bottles"
+    },
+    {
+      "name": "Vodka (\u00bd bottle)"
+    },
+    {
+      "name": "Vodka (1 bottle)"
+    },
+    {
+      "name": "Vodka",
+      "weight": 2,
+      "quantity": "1d4+1",
+      "units": "bottles"
+    },
+    {
+      "name": "White wine (\u00bd bottle)"
+    },
+    {
+      "name": "White wine (1 bottle)"
+    },
+    {
+      "name": "White wine",
+      "weight": 2,
+      "quantity": "1d4+1",
+      "units": "bottles"
+    }
+  ]
+}

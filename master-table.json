@@ -1,0 +1,82 @@
+{
+  "name": "Wasteland Treasures",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "name": "Projectile Weapons",
+      "weight": 3,
+      "subtable": "projectile-weapons"
+    },
+    {
+      "name": "Appliances and Furniture",
+      "weight": 6,
+      "subtable": "appliances-furniture"
+    },
+    {
+      "name": "Clothing",
+      "weight": 3,
+      "subtable": "clothing"
+    },
+    {
+      "name": "Water",
+      "weight": 3,
+      "subtable": "water-type"
+    },
+    {
+      "name": "Medication",
+      "weight": 6,
+      "subtable": "medication"
+    },
+    {
+      "name": "Office Items",
+      "weight": 6,
+      "subtable": "office-items"
+    },
+    {
+      "name": "Books",
+      "weight": 3,
+      "subtable": "books"
+    },
+    {
+      "name": "Melee/Thrown Weapons",
+      "weight": 3,
+      "subtable": "melee-thrown-weapons"
+    },
+    {
+      "name": "Over-the-Counter Drugs and Medical Supplies",
+      "weight": 3,
+      "subtable": "medical-supplies"
+    },
+    {
+      "name": "Ammo",
+      "weight": 3,
+      "subtable": "ammunition"
+    },
+    {
+      "name": "Food",
+      "weight": 3,
+      "subtable": "food"
+    },
+    {
+      "name": "Armor and Tactical Gear",
+      "weight": 3,
+      "subtable": "tactical-gear"
+    },
+    {
+      "name": "Alcohol",
+      "weight": 3,
+      "subtable": "alcohol"
+    },
+    {
+      "name": "Drugs",
+      "weight": 2,
+      "subtable": "drugs"
+    },
+    {
+      "name": "Random Items",
+      "weight": 50,
+      "subtable": "miscellaneous-items"
+    }
+  ]
+}

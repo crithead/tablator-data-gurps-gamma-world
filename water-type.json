@@ -1,0 +1,97 @@
+{
+  "name": "Water",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "name": "Eight gallons"
+    },
+    {
+      "name": "Five gallons",
+      "weight": 4
+    },
+    {
+      "name": "Four and a half gallons",
+      "weight": 5
+    },
+    {
+      "name": "Four gallons",
+      "weight": 4
+    },
+    {
+      "name": "Half gallon",
+      "weight": 5
+    },
+    {
+      "name": "Half pint",
+      "weight": 4
+    },
+    {
+      "name": "One and a half gallons",
+      "weight": 5
+    },
+    {
+      "name": "One gallon",
+      "weight": 4
+    },
+    {
+      "name": "One gallon and a pint",
+      "weight": 5
+    },
+    {
+      "name": "One gallon and a quart",
+      "weight": 5
+    },
+    {
+      "name": "One pint",
+      "weight": 5
+    },
+    {
+      "name": "One quart",
+      "weight": 5
+    },
+    {
+      "name": "Seven gallons"
+    },
+    {
+      "name": "Six gallons",
+      "weight": 4
+    },
+    {
+      "name": "Three and a half gallons",
+      "weight": 5
+    },
+    {
+      "name": "Three gallons",
+      "weight": 4
+    },
+    {
+      "name": "Three gallons and a pint",
+      "weight": 5
+    },
+    {
+      "name": "Three gallons and a quart",
+      "weight": 5
+    },
+    {
+      "name": "Three quarts",
+      "weight": 5
+    },
+    {
+      "name": "Two and a half gallons",
+      "weight": 5
+    },
+    {
+      "name": "Two gallons",
+      "weight": 4
+    },
+    {
+      "name": "Two gallons and a pint",
+      "weight": 5
+    },
+    {
+      "name": "Two gallons and a quart",
+      "weight": 5
+    }
+  ]
+}

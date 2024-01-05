@@ -1,0 +1,302 @@
+{
+  "name": "Ammunition",
+  "type": "items",
+  "total-weight": 184,
+  "rows": [
+    {
+      "name": "12 GA Shotgun shells",
+      "weight": 5,
+      "quantity": "1d20"
+    },
+    {
+      "name": "20 GA Shotgun shell",
+      "weight": 5,
+      "quantity": "1d20"
+    },
+    {
+      "name": "22 LR Cartridges",
+      "weight": 12,
+      "quantity": "2d20"
+    },
+    {
+      "name": "243 Winchester Cartridges",
+      "quantity": "1d20"
+    },
+    {
+      "name": "32 Winchester Cartridges",
+      "quantity": "1d20"
+    },
+    {
+      "name": "35 Remington Cartridges",
+      "quantity": "1d20"
+    },
+    {
+      "name": "357 Magnum Cartridges",
+      "weight": 4,
+      "quantity": "1d20"
+    },
+    {
+      "name": "38 Special Cartridges",
+      "weight": 10,
+      "quantity": "1d20"
+    },
+    {
+      "name": "380 APC Cartridges",
+      "weight": 6,
+      "quantity": "1d20"
+    },
+    {
+      "name": "40 S&W Cartridges",
+      "quantity": "1d20"
+    },
+    {
+      "name": ".410 2.5\" Birdshot",
+      "quantity": "1d20"
+    },
+    {
+      "name": ".410 3\" Slug",
+      "quantity": "1d20"
+    },
+    {
+      "name": "44 Magnum Cartridges",
+      "weight": 4,
+      "quantity": "1d20"
+    },
+    {
+      "name": "44 Special Cartridges",
+      "quantity": "1d20"
+    },
+    {
+      "name": "44-40 Cartridges",
+      "quantity": "1d20"
+    },
+    {
+      "name": "45 APC Cartridges",
+      "weight": 8,
+      "quantity": "1d20"
+    },
+    {
+      "name": "45 Colt Cartridges",
+      "weight": 4,
+      "quantity": "1d20"
+    },
+    {
+      "name": "45-70 Cartridges",
+      "quantity": "1d20"
+    },
+    {
+      "name": "454 Casull Cartridges",
+      "quantity": "1d20"
+    },
+    {
+      "name": "50 AE Cartridges",
+      "quantity": "1d20"
+    },
+    {
+      "name": ".50 balls",
+      "quantity": "1d20"
+    },
+    {
+      "name": "50-Cal Cartridges",
+      "weight": 4,
+      "quantity": "1d20"
+    },
+    {
+      "name": ".600 Nitro Express",
+      "quantity": "1d20"
+    },
+    {
+      "name": ".67 balls",
+      "quantity": "1d20"
+    },
+    {
+      "name": "10 mm CLP",
+      "quantity": "1d20"
+    },
+    {
+      "name": "10 mm CLR",
+      "quantity": "1d20"
+    },
+    {
+      "name": "100 mm Rockets",
+      "quantity": "1d6"
+    },
+    {
+      "name": "12 GA 2.75\" Birdshot",
+      "quantity": "1d20"
+    },
+    {
+      "name": "12 GA 3\" Buckshot",
+      "quantity": "1d20"
+    },
+    {
+      "name": "12 GA 3\" Slug",
+      "quantity": "1d20"
+    },
+    {
+      "name": "15 mm CLP",
+      "quantity": "1d20"
+    },
+    {
+      "name": "15 mm CLR",
+      "quantity": "1d20"
+    },
+    {
+      "name": "15 mm Gyroc",
+      "quantity": "1d20"
+    },
+    {
+      "name": "15 mm plastic case, splat gun",
+      "quantity": "1d20"
+    },
+    {
+      "name": "20 GA 2.75\" Birdshot",
+      "quantity": "1d20"
+    },
+    {
+      "name": "20 GA 3\" Buckshot",
+      "quantity": "1d20"
+    },
+    {
+      "name": "20 GA 3\" Slug",
+      "quantity": "1d20"
+    },
+    {
+      "name": "25 mm cannon",
+      "quantity": "1d20"
+    },
+    {
+      "name": "25 mm caseless",
+      "quantity": "1d20"
+    },
+    {
+      "name": "25 mm plastic case, small grenade"
+    },
+    {
+      "name": "25 mm Tangler",
+      "quantity": "1d20"
+    },
+    {
+      "name": "25 mm thimble grenade",
+      "quantity": "1d6"
+    },
+    {
+      "name": "3 mm Needler",
+      "quantity": "1d20"
+    },
+    {
+      "name": "30 Carbine Cartridges",
+      "quantity": "1d20"
+    },
+    {
+      "name": "30-06 Springfield Cartridges",
+      "weight": 8,
+      "quantity": "1d20"
+    },
+    {
+      "name": "30-30 Winchester Cartridges",
+      "weight": 6,
+      "quantity": "1d20"
+    },
+    {
+      "name": "40 mm mini grenade",
+      "quantity": "1d20"
+    },
+    {
+      "name": "40 mm plastic case, large grenade",
+      "quantity": "1d20"
+    },
+    {
+      "name": "5.56mmx45mm NATO Cartridges",
+      "weight": 10,
+      "quantity": "1d20"
+    },
+    {
+      "name": "5.7mm CLP",
+      "weight": 2,
+      "quantity": "1d20"
+    },
+    {
+      "name": "5.7mm CLR",
+      "weight": 2,
+      "quantity": "1d20"
+    },
+    {
+      "name": "64 mm plastic case, mortar"
+    },
+    {
+      "name": "64 mm Rocket rounds"
+    },
+    {
+      "name": "64 mm standard grenade",
+      "quantity": "1d6"
+    },
+    {
+      "name": "7 mm CLP",
+      "quantity": "1d20"
+    },
+    {
+      "name": "7 mm CLR",
+      "quantity": "1d20"
+    },
+    {
+      "name": "7.62x39mm (AK) Cartridges",
+      "weight": 9,
+      "quantity": "1d20"
+    },
+    {
+      "name": "7.62x51mm (NATO) Cartridges",
+      "weight": 6,
+      "quantity": "1d20"
+    },
+    {
+      "name": "7mm Winchester Magnum Cartridges",
+      "quantity": "1d20"
+    },
+    {
+      "name": "9mm Cartridges",
+      "weight": 15,
+      "quantity": "1d20"
+    },
+    {
+      "name": "Arrows, Aluminum",
+      "weight": 3,
+      "quantity": "2d6"
+    },
+    {
+      "name": "Arrows, Wood",
+      "weight": 3,
+      "quantity": "2d6"
+    },
+    {
+      "name": "Ball bearings",
+      "weight": 2,
+      "quantity": "2d20"
+    },
+    {
+      "name": "Blasting caps",
+      "weight": 3,
+      "quantity": "1d6"
+    },
+    {
+      "name": "Crossbow bolt",
+      "weight": 4,
+      "quantity": "2d10"
+    },
+    {
+      "name": "Fragmentation Grenade",
+      "weight": 2,
+      "quantity": "2d6"
+    },
+    {
+      "name": "Mortar rounds",
+      "weight": 2,
+      "quantity": "2d6"
+    },
+    {
+      "name": "Rocket",
+      "weight": 3,
+      "quantity": "1d20"
+    }
+  ]
+}

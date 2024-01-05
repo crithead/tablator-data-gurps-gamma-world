@@ -1,0 +1,414 @@
+{
+  "name": "Food",
+  "type": "items",
+  "total-weight": 102,
+  "rows": [
+    {
+      "name": "Alphabet soup",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Alcohol",
+      "table":"alcohol"
+    },
+    {
+      "name": "Animal crackers",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Asparagus",
+      "quantity": "1d3",
+      "units": "cans"
+    },
+    {
+      "name": "Baby food",
+      "weight": 2,
+      "quantity": "1d6",
+      "units": "jars"
+    },
+    {
+      "name": "Baked beans",
+      "quantity": "1d3",
+      "units": "cans"
+    },
+    {
+      "name": "Beef",
+      "weight": 2,
+      "quantity": "1d3",
+      "units": "cans"
+    },
+    {
+      "name": "Beef jerky",
+      "weight": 2,
+      "quantity": "1d3",
+      "units": "meals"
+    },
+    {
+      "name": "Beets",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Candy",
+      "quantity": "1d3",
+      "units": "packets"
+    },
+    {
+      "name": "Carrots",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Cat food",
+      "quantity": "2d6",
+      "units": "cans"
+    },
+    {
+      "name": "Cherry drink mix",
+      "quantity": "8",
+      "units": "uses"
+    },
+    {
+      "name": "Chicken",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Coffee",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Condensed milk",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Corn",
+      "weight": 3,
+      "quantity": "1d3",
+      "units": "cans"
+    },
+    {
+      "name": "Corned beef hash",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Cow Tongue",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Cream of Mushroom Soup",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Creamed corn",
+      "quantity": "1d3",
+      "units": "cans"
+    },
+    {
+      "name": "Dog food",
+      "weight": 5,
+      "quantity": "2d6",
+      "units": "cans"
+    },
+    {
+      "name": "Dried apricots",
+      "quantity": "1d3",
+      "units": "meals"
+    },
+    {
+      "name": "Dried banana chips",
+      "quantity": "1d3",
+      "units": "meals"
+    },
+    {
+      "name": "Dried shrimp",
+      "quantity": "1d6",
+      "units": "jars"
+    },
+    {
+      "name": "Dry roasted peanuts",
+      "quantity": "1d6",
+      "units": "jars"
+    },
+    {
+      "name": "Fig Newtons",
+      "quantity": "1d6",
+      "units": "boxes"
+    },
+    {
+      "name": "Fruit Medley",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Graham crackers",
+      "quantity": "1d6",
+      "units": "meals"
+    },
+    {
+      "name": "Granola bars",
+      "quantity": "2d6",
+      "units": "bars"
+    },
+    {
+      "name": "Green beans",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Hardtack",
+      "quantity": "2d4",
+      "units": "meals"
+    },
+    {
+      "name": "Instant soup",
+      "quantity": "1d6",
+      "units": "meals"
+    },
+    {
+      "name": "Beef Jerky",
+      "quantity": "1d6",
+      "units": "meals"
+    },
+    {
+      "name": "Pemmican",
+      "quantity": "1d6",
+      "units": "meals"
+    },
+    {
+      "name": "Kidney beans",
+      "weight": 2,
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Lima beans",
+      "units": "can"
+    },
+    {
+      "name": "MRE",
+      "quantity": "1d6",
+      "units": "packages"
+    },
+    {
+      "name": "Mushrooms",
+      "quantity": "1d3",
+      "units": "cans"
+    },
+    {
+      "name": "Olive oil",
+      "quantity": "1d2",
+      "units": "bottles"
+    },
+    {
+      "name": "Orange slices",
+      "weight": 2,
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Peaches",
+      "quantity": "2d6",
+      "units": "cans"
+    },
+    {
+      "name": "Peanut butter",
+      "quantity": "2d6",
+      "units": "jars"
+    },
+    {
+      "name": "Pears",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Peas",
+      "weight": 2,
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Pickled okra",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Pineapple",
+      "weight": 3,
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Pinto beans",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Popcorn kernels",
+      "units": "jar"
+    },
+    {
+      "name": "Pork n' beans",
+      "weight": 2,
+      "quantity": "2d6",
+      "units": "cans"
+    },
+    {
+      "name": "Portable Soup (boulion cube)"
+    },
+    {
+      "name": "Potato salad",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Potatoes",
+      "weight": 2,
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Protein bars",
+      "quantity": "2d10",
+      "units": "bars"
+    },
+    {
+      "name": "Protein drinks",
+      "quantity": "2d4",
+      "units": "meals"
+    },
+    {
+      "name": "Ramen",
+      "quantity": "1d6",
+      "units": "packets"
+    },
+    {
+      "name": "Rice cakes",
+      "quantity": "1d6",
+      "units": "meals"
+    },
+    {
+      "name": "Salmon",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Sandwich cookies",
+      "quantity": "1d6",
+      "units": "meals"
+    },
+    {
+      "name": "Sardines",
+      "quantity": "2d6",
+      "units": "cans"
+    },
+    {
+      "name": "Sauerkraut",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Smoked mackerel",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Smoked oysters",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Soda",
+      "weight": 3,
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Spam",
+      "weight": 2,
+      "quantity": "13d6",
+      "units": "cans"
+    },
+    {
+      "name": "Sports Drink",
+      "quantity": "1d6",
+      "units": "bottles"
+    },
+    {
+      "name": "Stewed tomatoes",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Sunflower seeds",
+      "quantity": "1d6",
+      "units": "jars"
+    },
+    {
+      "name": "Survival Tablets",
+      "quantity": "1d6"
+    },
+    {
+      "name": "Survivalist Food Cache (1 per/year food)"
+    },
+    {
+      "name": "Tobacco",
+      "quantity": "1d6",
+      "units": "smokes"
+    },
+    {
+      "name": "Tomato soup",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Tomatoes",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Trail Food",
+      "weight": 2,
+      "quantity": "1d6",
+      "units": "meals"
+    },
+    {
+      "name": "Tuna",
+      "quantity": "2d6",
+      "units": "cans"
+    },
+    {
+      "name": "Turkey",
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Twinkies",
+      "weight": 2,
+      "quantity": "1d6x6",
+      "units": "meals"
+    },
+    {
+      "name": "Veggie chips",
+      "quantity": "1d6",
+      "units": "meals"
+    },
+    {
+      "name": "Vienna sausages",
+      "weight": 2,
+      "quantity": "1d6",
+      "units": "cans"
+    },
+    {
+      "name": "Water chestnuts",
+      "quantity": "1d6",
+      "units": "cans"
+    }
+  ]
+}

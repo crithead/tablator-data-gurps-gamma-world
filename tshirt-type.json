@@ -1,0 +1,31 @@
+{
+  "name": "T-Shirt Subtable",
+  "type": "items",
+  "total-weight": 8,
+  "rows": [
+    {
+      "name": "Beatles"
+    },
+    {
+      "name": "Led Zeppelin"
+    },
+    {
+      "name": "long sleeve"
+    },
+    {
+      "name": "Motley Crue"
+    },
+    {
+      "name": "My Little Pony"
+    },
+    {
+      "name": "Pokemon"
+    },
+    {
+      "name": "Venom"
+    },
+    {
+      "name": "Purple Rain"
+    }
+  ]
+}

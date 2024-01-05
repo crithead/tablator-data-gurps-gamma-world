@@ -1,0 +1,307 @@
+{
+  "name": "Melee/Thrown Weapons",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "name": "Meat hook"
+    },
+    {
+      "name": "Dynamite (2 sticks)"
+    },
+    {
+      "name": "Double bit axe"
+    },
+    {
+      "name": "Brush ax"
+    },
+    {
+      "name": "Lock blade knife"
+    },
+    {
+      "name": "Wooden club"
+    },
+    {
+      "name": "Swiss bill hook"
+    },
+    {
+      "name": "Baseball bat"
+    },
+    {
+      "name": "Axe"
+    },
+    {
+      "name": "Large metal hook"
+    },
+    {
+      "name": "Hammer"
+    },
+    {
+      "name": "Rolling pin"
+    },
+    {
+      "name": "Lock blade knife"
+    },
+    {
+      "name": "Hatchet"
+    },
+    {
+      "name": "Carving knife"
+    },
+    {
+      "name": "Chef's knife"
+    },
+    {
+      "name": "Quarterstaff"
+    },
+    {
+      "name": "Sharpened spoon"
+    },
+    {
+      "name": "Katana with sheath"
+    },
+    {
+      "name": "Throwing stars (3)"
+    },
+    {
+      "name": "Saber with sheath"
+    },
+    {
+      "name": "Dynamite (1 stick)"
+    },
+    {
+      "name": "Pickaxe"
+    },
+    {
+      "name": "Pipe (3')"
+    },
+    {
+      "name": "M-80 (2)"
+    },
+    {
+      "name": "Pocket knife"
+    },
+    {
+      "name": "Dynamite (1 stick)"
+    },
+    {
+      "name": "Carpenter's axe"
+    },
+    {
+      "name": "Tactical axe"
+    },
+    {
+      "name": "Hand grenade (3)"
+    },
+    {
+      "name": "Bread knife"
+    },
+    {
+      "name": "Hunting knife"
+    },
+    {
+      "name": "Brass knuckles"
+    },
+    {
+      "name": "Wooden staff"
+    },
+    {
+      "name": "Straight razor"
+    },
+    {
+      "name": "Bowie knife"
+    },
+    {
+      "name": "M-80 (1)"
+    },
+    {
+      "name": "Meat cleaver"
+    },
+    {
+      "name": "Tomahawk"
+    },
+    {
+      "name": "Survival knife"
+    },
+    {
+      "name": "Zombie apocalypse axe"
+    },
+    {
+      "name": "Combat machete"
+    },
+    {
+      "name": "Shovel"
+    },
+    {
+      "name": "Sickle"
+    },
+    {
+      "name": "Nunchaku"
+    },
+    {
+      "name": "Sword"
+    },
+    {
+      "name": "Baseball bat with nails"
+    },
+    {
+      "name": "Combat knife"
+    },
+    {
+      "name": "LeatherWhip"
+    },
+    {
+      "name": "Machete"
+    },
+    {
+      "name": "Bolo"
+    },
+    {
+      "name": "Switchblade"
+    },
+    {
+      "name": "Hand grenade (1)"
+    },
+    {
+      "name": "Stone handaxe"
+    },
+    {
+      "name": "55.Spear"
+    },
+    {
+      "name": "Jungle hunter machete"
+    },
+    {
+      "name": "Pipe (4')"
+    },
+    {
+      "name": "Blackjack"
+    },
+    {
+      "name": "Collapsible baton"
+    },
+    {
+      "name": "Bayonet"
+    },
+    {
+      "name": "Bill hook saw"
+    },
+    {
+      "name": "Bamboo staff"
+    },
+    {
+      "name": "Chainsaw (20 uses)"
+    },
+    {
+      "name": "Baton"
+    },
+    {
+      "name": "Dynamite (3 sticks)"
+    },
+    {
+      "name": "Spiked club"
+    },
+    {
+      "name": "Sledgehammer"
+    },
+    {
+      "name": "Scissors (sharpened)"
+    },
+    {
+      "name": "Sword with sheath"
+    },
+    {
+      "name": "Tire iron"
+    },
+    {
+      "name": "Bolt cutters"
+    },
+    {
+      "name": "Longbow"
+    },
+    {
+      "name": "Blowtorch (10 uses)"
+    },
+    {
+      "name": "Boomerang"
+    },
+    {
+      "name": "Butterfly knife"
+    },
+    {
+      "name": "Cane"
+    },
+    {
+      "name": "Butcher knife"
+    },
+    {
+      "name": "Screwdriver (sharpened)"
+    },
+    {
+      "name": "Pipe (5')"
+    },
+    {
+      "name": "Zombie knife"
+    },
+    {
+      "name": "Splitting maul"
+    },
+    {
+      "name": "Sharpened stick"
+    },
+    {
+      "name": "Kukri knife"
+    },
+    {
+      "name": "Axe handle"
+    },
+    {
+      "name": "Utility knife"
+    },
+    {
+      "name": "Combat bowie knife"
+    },
+    {
+      "name": "Cricket bat"
+    },
+    {
+      "name": "Trench knife"
+    },
+    {
+      "name": "Bicycle chain"
+    },
+    {
+      "name": "Crowbar"
+    },
+    {
+      "name": "Boning knife"
+    },
+    {
+      "name": "Fireman's axe"
+    },
+    {
+      "name": "Monkeywrench"
+    },
+    {
+      "name": "Slap gloves"
+    },
+    {
+      "name": "Lawnmower blade"
+    },
+    {
+      "name": "Chain (5')"
+    },
+    {
+      "name": "Throwing knives (3)"
+    },
+    {
+      "name": "Nightstick"
+    },
+    {
+      "name": "Combat kukri knife"
+    },
+    {
+      "name": "Tactical zombie killer machete"
+    }
+  ]
+}
