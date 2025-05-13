@@ -1,6 +1,5 @@
 {
   "name": "Appliances & Furniture",
-  "type": "items",
   "total-weight": 211,
   "rows": [
     {
@@ -562,7 +561,7 @@
       "name": "Wooden stool"
     },
     {
-      "name": "End table 76.Haybox"
+      "name": "Haybox"
     },
     {
       "name": "Bench"

@@ -1,6 +1,5 @@
 {
   "name": "US President",
-  "type": "items",
   "total-weight": 45,
   "rows": [
     { "name": "George Washington" },

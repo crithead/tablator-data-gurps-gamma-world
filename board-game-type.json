@@ -1,6 +1,5 @@
 {
   "name": "Board Games",
-  "type": "items",
   "total-weight": 28,
   "rows": [
     { "name": "Axis & Allies" },

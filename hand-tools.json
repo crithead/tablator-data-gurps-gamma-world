@@ -1,6 +1,5 @@
 {
   "name": "Hand Tools",
-  "type": "items",
   "total-weight": 48,
   "rows": [
     { "name": "Broad Axe" },

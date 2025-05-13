@@ -10,7 +10,7 @@ set -e      # fail if any command fails
 #set -x
 readonly PYTHON="$(command -v python3)"
 readonly DATA_DIR="$PWD"
-readonly TOOL="${1:-../tablator/src/tablator.py}"
+readonly TOOL="${1:-$HOME/Source/tablator/src/tablator.py}"
 cd "$(dirname "$TOOL")" || exit 1
 readonly TABLATOR="$(basename "$TOOL")"
 

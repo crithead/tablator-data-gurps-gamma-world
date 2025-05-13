@@ -1,6 +1,5 @@
 {
   "name": "Paint Color",
-  "type": "items",
   "total-weight": 15,
   "rows": [
     { "name": "Black" },

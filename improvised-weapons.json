@@ -1,6 +1,5 @@
 {
   "name": "Improvised Weapons",
-  "type": "items",
   "total-weight": 20,
   "rows": [
     { "name": "Baseball Bat" },
